@@ -1,0 +1,666 @@
+﻿Log file open, 11/19/18 14:59:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TrenchTowers
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.295468
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin CreaturePackPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.452s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.048s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.19-19.59.08:383][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.19-19.59.08:384][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.19-19.59.08:453][  0]LogHAL: Display: Platform has ~ 16 GB [17044946944 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.19-19.59.08:463][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.19-19.59.08:463][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.19-19.59.08:483][  0]LogInit: Computer: DESKTOP-RI1ETNT
+[2018.11.19-19.59.08:483][  0]LogInit: User: Fires
+[2018.11.19-19.59.08:483][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.19-19.59.08:483][  0]LogInit: High frequency timer resolution =2.531250 MHz
+[2018.11.19-19.59.08:483][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.19-19.59.08:483][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.19-19.59.08:483][  0]LogMemory: Process Physical Memory: 102.18 MB used, 102.18 MB peak
+[2018.11.19-19.59.08:483][  0]LogMemory: Process Virtual Memory: 93.48 MB used, 93.48 MB peak
+[2018.11.19-19.59.08:483][  0]LogMemory: Physical Memory: 6651.64 MB used,  9603.69 MB free, 16255.33 MB total
+[2018.11.19-19.59.08:483][  0]LogMemory: Virtual Memory: 4642.88 MB used,  9603.69 MB free, 134217728.00 MB total
+[2018.11.19-19.59.09:798][  0]LogInit: Using OS detected language (en-US).
+[2018.11.19-19.59.09:798][  0]LogInit: Using OS detected locale (en-CA).
+[2018.11.19-19.59.09:858][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.19-19.59.10:734][  0]LogStreaming: Display: Took  0.936s to InitEngineTextLocalization.
+[2018.11.19-19.59.10:734][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.19-19.59.11:197][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.19-19.59.11:197][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.19-19.59.15:759][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.19-19.59.15:759][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.19-19.59.16:840][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.11.19-19.59.16:840][  0]LogD3D11RHI:       8081/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.19-19.59.17:007][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.11.19-19.59.17:007][  0]LogD3D11RHI:       128/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.19-19.59.17:012][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.19-19.59.17:012][  0]LogD3D11RHI:       0/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.19-19.59.17:012][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.19-19.59.17:059][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.19-19.59.17:059][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.19-19.59.17:059][  0]LogWindows: EnumDisplayDevices:
+[2018.11.19-19.59.17:059][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.11.19-19.59.17:060][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.19-19.59.17:061][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.19-19.59.17:062][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.11.19-19.59.17:063][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.11.19-19.59.17:064][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.11.19-19.59.17:065][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.11.19-19.59.17:065][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.11.19-19.59.17:065][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.11.19-19.59.17:065][  0]LogD3D11RHI:   Driver Version: 397.64 (internal:24.21.13.9764, unified:397.64)
+[2018.11.19-19.59.17:065][  0]LogD3D11RHI:      Driver Date: 5-7-2018
+[2018.11.19-19.59.17:065][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2018.11.19-19.59.17:133][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2018.11.19-19.59.17:134][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.19-19.59.17:210][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.19-19.59.17:233][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Program Files (x86)/TrenchTowers 4.20/Intermediate/Shaders/WorkingDirectory/14824/).
+[2018.11.19-19.59.17:233][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Fires/AppData/Local/Temp/UnrealShaderWorkingDir/52CFC4784B06D32261D148B369A79383/'.
+[2018.11.19-19.59.19:163][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.19-19.59.19:238][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.19-19.59.19:308][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.19-19.59.19:374][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.19-19.59.19:475][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.19-19.59.19:576][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.19-19.59.19:649][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.19-19.59.19:721][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.19-19.59.19:788][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-19.59.20:057][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.19-19.59.20:331][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.19-19.59.20:331][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.19-19.59.20:415][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.19-19.59.20:415][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.19-19.59.20:489][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.19-19.59.20:551][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.19-19.59.20:619][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.19-19.59.20:709][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.19-19.59.20:770][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.19-19.59.20:770][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.19-19.59.22:688][  0]LogXGEController: Cleaning working directory: C:/Users/Fires/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.19-19.59.22:688][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.19-19.59.22:688][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.19-19.59.22:688][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.19-19.59.26:325][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.19-19.59.26:726][  0]LogDerivedDataCache: Loaded boot cache 0.40s 71MB C:/Users/Fires/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.19-19.59.26:727][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Fires/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.19-19.59.26:728][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Program Files (x86)/TrenchTowers 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.19-19.59.26:728][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.19-19.59.26:728][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Program Files (x86)/TrenchTowers 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.19-19.59.26:728][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.19-19.59.26:802][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.19-19.59.26:826][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Fires/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.19-19.59.26:826][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.19-19.59.26:826][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.19-19.59.26:874][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.19-19.59.26:880][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.19-19.59.26:953][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.19-19.59.28:776][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2018.11.19-19.59.30:834][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.19-19.59.33:829][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.19-19.59.34:185][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.19-19.59.34:185][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.19-19.59.34:185][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.19-19.59.34:185][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.19-19.59.34:473][  0]LogNetVersion: TrenchTowers 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1537713906)
+[2018.11.19-19.59.35:515][  0]LogObj: Error: LoadConfig (/Script/Engine.Default__RendererSettings): import failed for bEnableAlphaChannelInPostProcessing in: False
+[2018.11.19-19.59.38:332][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.267174 seconds
+[2018.11.19-19.59.38:364][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.19-19.59.38:364][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.19-19.59.38:364][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.19-20.00.06:554][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.19-20.00.06:629][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.19-20.00.08:231][  0]SourceControl: Source control is disabled
+[2018.11.19-20.00.08:231][  0]SourceControl: Source control is disabled
+[2018.11.19-20.00.08:356][  0]SourceControl: Source control is disabled
+[2018.11.19-20.00.08:432][  0]SourceControl: Source control is disabled
+[2018.11.19-20.00.11:303][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.19-20.00.11:784][  0]LogOcInput: OculusInput pre-init called
+[2018.11.19-20.00.12:391][  0]LogEngine: Initializing Engine...
+[2018.11.19-20.00.12:394][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.19-20.00.12:430][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.19-20.00.12:430][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.19-20.00.13:558][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.19-20.00.13:761][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.19-20.00.13:909][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.11.19-20.00.14:039][  0]LogInit: FAudioDevice initialized.
+[2018.11.19-20.00.14:040][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.19-20.00.14:144][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/Fires/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.19-20.00.14:164][  0]LogInit: Texture streaming: Enabled
+[2018.11.19-20.00.14:490][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.19-20.00.14:591][  0]LogInit: Transaction tracking system initialized
+[2018.11.19-20.00.14:985][  0]BlueprintLog: New page: Editor Load
+[2018.11.19-20.00.16:922][  0]LocalizationService: Localization service is disabled
+[2018.11.19-20.00.20:228][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.19-20.00.20:228][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.19-20.00.20:228][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.19-20.00.20:228][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.19-20.00.20:229][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.19-20.00.20:413][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files (x86)/TrenchTowers 4.20/Content/' took 0.06s
+[2018.11.19-20.00.24:078][  0]SourceControl: Source control is disabled
+[2018.11.19-20.00.24:078][  0]Cmd: MAP LOAD FILE="../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.19-20.00.24:353][  0]LightingResults: New page: Lighting Build
+[2018.11.19-20.00.24:631][  0]MapCheck: New page: Map Check
+[2018.11.19-20.00.24:631][  0]LightingResults: New page: Lighting Build
+[2018.11.19-20.00.28:325][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.19-20.00.28:480][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.19-20.00.28:541][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.19-20.00.28:656][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 115.819ms to complete.
+[2018.11.19-20.00.28:656][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 4.579
+[2018.11.19-20.00.28:929][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-20.00.28:938][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-20.00.28:948][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-20.00.28:957][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-20.00.29:073][  0]LogCollectionManager: Loaded 0 collections in 0.022193 seconds
+[2018.11.19-20.00.29:129][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files (x86)/TrenchTowers 4.20/Saved/Collections/' took 0.01s
+[2018.11.19-20.00.29:129][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files (x86)/TrenchTowers 4.20/Content/Developers/Fires/Collections/' took 0.01s
+[2018.11.19-20.00.29:129][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files (x86)/TrenchTowers 4.20/Content/Collections/' took 0.01s
+[2018.11.19-20.00.29:129][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.19-20.00.29:139][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2576 classes and 608 folders.
+[2018.11.19-20.00.29:163][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.19-20.00.31:385][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.19-20.00.31:485][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.19-20.00.31:707][  0]LogSlate: Took 0.018793 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.19-20.00.31:737][  0]LogSlate: Took 0.027920 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.19-20.00.31:781][  0]LogSlate: Took 0.019246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.19-20.00.32:103][  0]LogRenderer: Reallocating scene render targets to support 1116x632 Format 9 NumSamples 1 (Frame:1).
+[2018.11.19-20.00.32:510][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.11.19-20.00.32:510][  0]LogLoad: (Engine Initialization) Total time: 107.20 seconds
+[2018.11.19-20.00.32:510][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.19-20.00.32:649][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.11.19-20.00.32:822][  0]LogSlate: Took 0.072307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.19-20.00.33:231][  2]LogAssetRegistry: Asset discovery search completed in 64.4781 seconds
+[2018.11.19-20.00.33:233][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.19-20.00.33:233][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2018.11.19-20.00.33:880][  4]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 0 (  Trying 54.236.93.143...)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.236.93.143) port 443 (#0))
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 10 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 11 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 12 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 13 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 14 (TLSv1.2 (IN), TLS change cipher, Client hello (1):)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 16 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 17 (ALPN, server accepted to use http/1.1)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 18 (Server certificate:)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 19 ( subject: CN=*.ol.epicgames.com)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 20 ( start date: Mar 12 00:00:00 2018 GMT)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 21 ( expire date: Apr 12 12:00:00 2019 GMT)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 22 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 23 ( issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 24 ( SSL certificate verify ok.)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 25 (upload completely sent off: 2945 out of 2945 bytes)
+[2018.11.19-20.01.53:200][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 26 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2018.11.19-20.01.53:201][242]LogHttp: Warning: 0000023081E05F80: libcurl info message cache 27 (Closing connection 0)
+[2018.11.19-20.02.40:514][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-20.02.42:826][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-20.02.42:860][596]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-20.02.42:890][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.19-20.02.42:890][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-20.02.42:904][596]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 19, 2018, 10:02:42 AM)
+[2018.11.19-20.02.42:904][596]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.11.19-20.02.42:958][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053938s)
+[2018.11.19-20.02.42:959][596]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.19-20.02.42:959][596]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2018.11.19-20.02.42:959][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.055005s)
+[2018.11.19-20.02.43:000][596]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.11.19-20.02.43:112][596]LogInit: FAudioDevice initialized.
+[2018.11.19-20.02.43:170][596]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.19-20.02.43:177][596]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2018.11.19-15.02.43
+[2018.11.19-20.02.43:190][596]LogWorld: Bringing up level for play took: 0.016439
+[2018.11.19-20.02.43:254][596]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 10 classes and 0 folders.
+[2018.11.19-20.02.43:273][596]LogBlueprintUserMessages: [TroopSpawner2_2] false
+[2018.11.19-20.02.43:273][596]LogBlueprintUserMessages: [TroopSpawner2_2] true
+[2018.11.19-20.02.43:273][596]LogBlueprintUserMessages: [TroopSpawner2_2] true
+[2018.11.19-20.02.43:273][596]LogBlueprintUserMessages: [TroopSpawner2_2] false
+[2018.11.19-20.02.43:273][596]LogBlueprintUserMessages: [TroopSpawner2_2] true
+[2018.11.19-20.02.43:273][596]LogBlueprintUserMessages: [TroopSpawner2_2] true
+[2018.11.19-20.02.43:273][596]LogBlueprintUserMessages: [TroopSpawner2_2] false
+[2018.11.19-20.02.43:273][596]LogBlueprintUserMessages: [TroopSpawner2_2] true
+[2018.11.19-20.02.43:273][596]LogBlueprintUserMessages: [TroopSpawner2_2] true
+[2018.11.19-20.02.43:273][596]LogBlueprintUserMessages: [TroopSpawner2_2] Right
+[2018.11.19-20.02.43:274][596]LogBlueprintUserMessages: [TroopSpawner2_2] Lane1
+[2018.11.19-20.02.43:274][596]LogBlueprintUserMessages: [TroopSpawner2_2] DEF
+[2018.11.19-20.02.43:274][596]LogBlueprintUserMessages: [TroopSpawner2_2] Right
+[2018.11.19-20.02.43:274][596]LogBlueprintUserMessages: [TroopSpawner2_2] Lane1
+[2018.11.19-20.02.43:274][596]LogBlueprintUserMessages: [TroopSpawner2_2] DEF
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [Tower5] TroopSpawner2
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [Tower5] false
+[2018.11.19-20.02.43:275][596]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Tower.Tower_C'!
+[2018.11.19-20.02.43:275][596]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Tower.Tower_C'!
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [Tower5] 
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [TroopSpawner_260] false
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [TroopSpawner_260] true
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [TroopSpawner_260] true
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [TroopSpawner_260] false
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [TroopSpawner_260] true
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [TroopSpawner_260] true
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [TroopSpawner_260] false
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [TroopSpawner_260] true
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [TroopSpawner_260] true
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [TroopSpawner_260] Left
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [TroopSpawner_260] Lane1
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [TroopSpawner_260] DEF
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [TroopSpawner_260] Left
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [TroopSpawner_260] Lane1
+[2018.11.19-20.02.43:275][596]LogBlueprintUserMessages: [TroopSpawner_260] DEF
+[2018.11.19-20.02.43:276][596]LogBlueprintUserMessages: [Tower4] TroopSpawner2
+[2018.11.19-20.02.43:276][596]LogBlueprintUserMessages: [Tower5] TroopSpawner2
+[2018.11.19-20.02.43:276][596]LogBlueprintUserMessages: [Tower6] TroopSpawner2
+[2018.11.19-20.02.43:276][596]LogBlueprintUserMessages: [TroopSpawner3] false
+[2018.11.19-20.02.43:276][596]LogBlueprintUserMessages: [TroopSpawner3] true
+[2018.11.19-20.02.43:276][596]LogBlueprintUserMessages: [TroopSpawner3] true
+[2018.11.19-20.02.43:276][596]LogBlueprintUserMessages: [TroopSpawner3] false
+[2018.11.19-20.02.43:276][596]LogBlueprintUserMessages: [TroopSpawner3] true
+[2018.11.19-20.02.43:276][596]LogBlueprintUserMessages: [TroopSpawner3] true
+[2018.11.19-20.02.43:276][596]LogBlueprintUserMessages: [TroopSpawner3] false
+[2018.11.19-20.02.43:276][596]LogBlueprintUserMessages: [TroopSpawner3] true
+[2018.11.19-20.02.43:276][596]LogBlueprintUserMessages: [TroopSpawner3] true
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner3] Right
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner3] Lane1
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner3] DEF
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner3] Right
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner3] Lane1
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner3] DEF
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [Tower10] TroopSpawner3
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [Tower10] false
+[2018.11.19-20.02.43:277][596]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Tower.Tower_C'!
+[2018.11.19-20.02.43:277][596]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Tower.Tower_C'!
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [Tower10] 
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner4] false
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner4] true
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner4] true
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner4] false
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner4] true
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner4] true
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner4] false
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner4] true
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner4] true
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner4] Left
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner4] Lane1
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner4] DEF
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner4] Left
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner4] Lane1
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [TroopSpawner4] DEF
+[2018.11.19-20.02.43:277][596]LogBlueprintUserMessages: [Tower9] TroopSpawner2
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [Tower9] TroopSpawner3
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [Tower10] TroopSpawner2
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [Tower10] TroopSpawner3
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [Tower11] TroopSpawner2
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [Tower11] TroopSpawner3
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner5] false
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner5] true
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner5] true
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner5] false
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner5] true
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner5] true
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner5] false
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner5] true
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner5] true
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner5] Right
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner5] Lane1
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner5] DEF
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner5] Right
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner5] Lane1
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner5] DEF
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [Tower16] TroopSpawner5
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [Tower16] false
+[2018.11.19-20.02.43:278][596]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Tower.Tower_C'!
+[2018.11.19-20.02.43:278][596]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Tower.Tower_C'!
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [Tower16] 
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner6] false
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner6] true
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner6] true
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner6] false
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner6] true
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner6] true
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner6] false
+[2018.11.19-20.02.43:278][596]LogBlueprintUserMessages: [TroopSpawner6] true
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [TroopSpawner6] true
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [TroopSpawner6] Left
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [TroopSpawner6] Lane1
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [TroopSpawner6] DEF
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [TroopSpawner6] Left
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [TroopSpawner6] Lane1
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [TroopSpawner6] DEF
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [Tower15] TroopSpawner2
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [Tower15] TroopSpawner3
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [Tower15] TroopSpawner5
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [Tower16] TroopSpawner2
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [Tower16] TroopSpawner3
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [Tower16] TroopSpawner5
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [Tower17] TroopSpawner2
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [Tower17] TroopSpawner3
+[2018.11.19-20.02.43:279][596]LogBlueprintUserMessages: [Tower17] TroopSpawner5
+[2018.11.19-20.02.43:281][596]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.424
+[2018.11.19-20.02.43:281][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.11.19-20.02.43:304][596]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:367][597]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:391][598]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:408][599]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:425][600]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:441][601]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:456][602]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:473][603]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:491][604]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:507][605]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:523][606]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:541][607]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:558][608]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:573][609]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:590][610]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:608][611]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:624][612]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:640][613]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:658][614]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:674][615]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:690][616]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:707][617]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:725][618]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:744][619]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:759][620]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:774][621]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:791][622]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:809][623]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:824][624]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:842][625]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:857][626]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:873][627]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:891][628]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:909][629]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:925][630]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:942][631]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:959][632]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:974][633]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.43:990][634]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:008][635]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:024][636]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:040][637]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:057][638]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:074][639]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:090][640]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:107][641]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:124][642]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:140][643]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:157][644]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:176][645]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:195][646]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:209][647]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:226][648]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:244][649]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:260][650]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:276][651]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:294][652]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:310][653]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:327][654]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:343][655]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:359][656]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:376][657]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:392][658]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:409][659]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:426][660]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:443][661]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:459][662]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:477][663]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:493][664]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:510][665]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:527][666]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:544][667]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:560][668]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:577][669]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:596][670]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:610][671]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:631][672]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:648][673]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:663][674]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:680][675]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:697][676]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:713][677]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:730][678]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:747][679]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:764][680]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:780][681]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:798][682]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:814][683]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:830][684]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:848][685]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:865][686]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:882][687]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:901][688]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:918][689]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.44:934][690]LogPhysics: Warning: COLLISION PROFILE [Floor] is not found
+[2018.11.19-20.02.45:003][691]LogOutputDevice: Warning: 
+
+Script Stack:
+TroopSpawner_C.ExecuteUbergraph_TroopSpawner
+
+[2018.11.19-20.02.47:941][691]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.937 s
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: 
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: Ensure condition failed: Cast<APawn>(NewUpdatedComponent->GetOwner()) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Components\PawnMovementComponent.cpp] [Line: 16]
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: FloatingPawnMovement must update a component owned by a Pawn
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: Stack: 
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd972d71f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd97010c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd9702b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67fedbd5 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67fda21b UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67ef8d13 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67f22003 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67f20ea5 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd68a9e591 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67b646fb UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67b687c4 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67b876f3 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd684cf646 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd684cfc87 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd68878232 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd68868d15 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67e997c8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67b8378e UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67b6892f UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd68268eaf UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67bb9626 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd97916467 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd97b216ae UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd97b3f499 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd97b72266 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd97b41b96 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd97916467 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd97b41133 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67b88033 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd6844ae8f UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd6843069e UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67ba6bbe UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67ba730c UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd67b65630 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd68d616bd UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd96e91f92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd96e92456 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd96ea6d25 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd68db5b04 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd68dc4d92 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd684c87e4 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd684d4003 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd666a7335 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffd66f9f666 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ff6e90f5cbd UE4Editor.exe!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ff6e9105b3c UE4Editor.exe!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ff6e9105bba UE4Editor.exe!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ff6e9113dac UE4Editor.exe!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ff6e9115aaa UE4Editor.exe!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffdf3593034 KERNEL32.DLL!UnknownFunction []
+[2018.11.19-20.02.47:941][691]LogOutputDevice: Error: [Callstack] 0x00007ffdf4001471 ntdll.dll!UnknownFunction []
+[2018.11.19-20.02.47:942][691]LogOutputDevice: Error: 
+[2018.11.19-20.02.47:949][691]LogStats:                SubmitErrorReport -  0.000 s
