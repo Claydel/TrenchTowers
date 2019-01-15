@@ -1,0 +1,730 @@
+﻿Log file open, 01/14/19 18:02:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TrenchTowers
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.378962
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin CreaturePackPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.097s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  /Game/2DSideScrollerBP/Maps/MainMenu -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.14-23.02.16:950][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.14-23.02.16:950][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.14-23.02.16:958][  0]LogHAL: Display: Platform has ~ 16 GB [17044942848 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.14-23.02.16:959][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.14-23.02.16:959][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.14-23.02.16:959][  0]LogInit: Computer: DESKTOP-RI1ETNT
+[2019.01.14-23.02.16:959][  0]LogInit: User: Fires
+[2019.01.14-23.02.16:959][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.14-23.02.16:959][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.01.14-23.02.16:960][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.14-23.02.16:960][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.14-23.02.16:960][  0]LogMemory: Process Physical Memory: 131.20 MB used, 131.20 MB peak
+[2019.01.14-23.02.16:960][  0]LogMemory: Process Virtual Memory: 103.60 MB used, 103.60 MB peak
+[2019.01.14-23.02.16:960][  0]LogMemory: Physical Memory: 7369.05 MB used,  8886.27 MB free, 16255.32 MB total
+[2019.01.14-23.02.16:960][  0]LogMemory: Virtual Memory: 4756.84 MB used,  8886.27 MB free, 134217728.00 MB total
+[2019.01.14-23.02.17:545][  0]LogInit: Using OS detected language (en-US).
+[2019.01.14-23.02.17:545][  0]LogInit: Using OS detected locale (en-CA).
+[2019.01.14-23.02.17:742][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.14-23.02.18:361][  0]LogStreaming: Display: Took  0.816s to InitEngineTextLocalization.
+[2019.01.14-23.02.18:430][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.14-23.02.18:430][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.14-23.02.18:503][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.14-23.02.18:503][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.14-23.02.18:678][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.01.14-23.02.18:678][  0]LogD3D11RHI:       8081/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.14-23.02.18:696][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.01.14-23.02.18:696][  0]LogD3D11RHI:       128/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.14-23.02.18:703][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.14-23.02.18:703][  0]LogD3D11RHI:       0/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.14-23.02.18:703][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.14-23.02.18:769][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.14-23.02.18:770][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.14-23.02.18:770][  0]LogWindows: EnumDisplayDevices:
+[2019.01.14-23.02.18:770][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.01.14-23.02.18:771][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.01.14-23.02.18:772][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.01.14-23.02.18:773][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.14-23.02.18:773][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.14-23.02.18:774][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.14-23.02.18:775][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.14-23.02.18:775][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.01.14-23.02.18:775][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.01.14-23.02.18:775][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2019.01.14-23.02.18:775][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2019.01.14-23.02.18:776][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.01.14-23.02.18:881][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2019.01.14-23.02.18:881][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.14-23.02.18:904][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.14-23.02.18:907][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Program Files (x86)/TrenchTowers 4.20/Intermediate/Shaders/WorkingDirectory/9956/).
+[2019.01.14-23.02.18:907][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Fires/AppData/Local/Temp/UnrealShaderWorkingDir/4BADA0234D1CE7850EF58996424D071D/'.
+[2019.01.14-23.02.19:659][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.14-23.02.19:689][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.14-23.02.19:716][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.14-23.02.19:749][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.14-23.02.19:749][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.14-23.02.19:960][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.14-23.02.19:960][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.14-23.02.19:960][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.14-23.02.21:187][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.14-23.02.21:272][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Fires/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.14-23.02.21:272][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Fires/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.14-23.02.21:272][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Program Files (x86)/TrenchTowers 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.14-23.02.21:272][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.14-23.02.21:272][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Program Files (x86)/TrenchTowers 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.14-23.02.21:272][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.14-23.02.21:296][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.14-23.02.21:310][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Fires/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.14-23.02.21:310][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.14-23.02.21:310][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.14-23.02.21:341][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.14-23.02.21:344][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.14-23.02.21:345][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.14-23.02.21:491][  0]LogInit: Using OS detected language (en-US).
+[2019.01.14-23.02.21:491][  0]LogInit: Using OS detected locale (en-CA).
+[2019.01.14-23.02.21:491][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2019.01.14-23.02.21:492][  0]LogTextLocalizationManager: No localization for 'en-CA' exists, so 'en' will be used for the locale.
+[2019.01.14-23.02.21:930][  0]LogStreaming: Display: Took  0.439s to InitGameTextLocalization.
+[2019.01.14-23.02.21:948][  0]LogAssetRegistry: FAssetRegistry took 0.0068 seconds to start up
+[2019.01.14-23.02.22:315][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.029547 seconds
+[2019.01.14-23.02.22:502][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.14-23.02.22:623][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.14-23.02.22:638][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.14-23.02.22:638][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.14-23.02.22:638][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.14-23.02.22:638][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.14-23.02.22:806][  0]LogNetVersion: TrenchTowers 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1537713906)
+[2019.01.14-23.02.22:900][  0]LogObj: Error: LoadConfig (/Script/Engine.Default__RendererSettings): import failed for bEnableAlphaChannelInPostProcessing in: False
+[2019.01.14-23.02.23:894][  0]LogMoviePlayer: Initializing movie player
+[2019.01.14-23.02.24:229][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.14-23.02.24:246][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.14-23.02.24:388][  0]SourceControl: Source control is disabled
+[2019.01.14-23.02.24:388][  0]SourceControl: Source control is disabled
+[2019.01.14-23.02.24:393][  0]SourceControl: Source control is disabled
+[2019.01.14-23.02.24:629][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.14-23.02.24:835][  0]LogOcInput: OculusInput pre-init called
+[2019.01.14-23.02.24:858][  0]LogUObjectArray: 42217 objects as part of root set at end of initial load.
+[2019.01.14-23.02.24:858][  0]LogUObjectAllocator: 7453432 out of 0 bytes used by permanent object pool.
+[2019.01.14-23.02.24:858][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.14-23.02.24:955][  0]LogEngine: Initializing Engine...
+[2019.01.14-23.02.24:957][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.14-23.02.24:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.14-23.02.24:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.14-23.02.25:243][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.14-23.02.25:296][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.14-23.02.25:438][  0]LogInit: FAudioDevice initialized.
+[2019.01.14-23.02.25:450][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.14-23.02.25:462][  0]LogInit: Texture streaming: Enabled
+[2019.01.14-23.02.25:701][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/2DSideScrollerBP/Blueprints/Gameplay/PlayerSaveGame.PlayerSaveGame_C:SPlayerInfo'. Unknown structure.
+[2019.01.14-23.02.25:701][  0]LogClass: Warning: Property SPlayerInfo of SPlayerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/PlayerSaveGame.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.01.14-23.02.25:874][  0]LogClass: Warning: Property SPlayerInfo of SPlayerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.01.14-23.02.25:900][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-23.02.25:900][  0]LogInit: Display: Game Engine Initialized.
+[2019.01.14-23.02.25:900][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.14-23.02.25:900][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.14-23.02.25:900][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.14-23.02.25:951][  0]LogInit: Display: Starting Game.
+[2019.01.14-23.02.25:951][  0]LogNet: Browse: /Game/2DSideScrollerBP/Maps/MainMenu?Name=Player
+[2019.01.14-23.02.25:952][  0]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/MainMenu?Name=Player
+[2019.01.14-23.02.26:284][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.14-23.02.26:285][  0]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.14-23.02.26:287][  0]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.14-18.02.26
+[2019.01.14-23.02.26:287][  0]LogWorld: Bringing up level for play took: 0.001098
+[2019.01.14-23.02.26:289][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.14-23.02.26:301][  0]LogLoad: Took 0.349544 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/MainMenu)
+[2019.01.14-23.02.26:409][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.01.14-23.02.26:409][  0]LogLoad: (Engine Initialization) Total time: 17.19 seconds
+[2019.01.14-23.02.26:409][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.14-23.02.31:471][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.14-23.02.36:127][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-23.02.36:370][300]LogScript: Warning: Accessed None trying to read property SaveGameRef
+	MainMenu_C /Engine/Transient.GameEngine_0:TrenchGameInstance_C_0.MainMenu_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/GameUI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:07C4
+[2019.01.14-23.02.36:370][300]LogScript: Warning: Script call stack:
+	Function /Game/2DSideScrollerBP/Blueprints/GameUI/MainMenu.MainMenu_C:BndEvt__PlayGameButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature
+	Function /Game/2DSideScrollerBP/Blueprints/GameUI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+
+[2019.01.14-23.02.36:370][300]LogScript: Warning: Attempted to assign to None
+	MainMenu_C /Engine/Transient.GameEngine_0:TrenchGameInstance_C_0.MainMenu_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/GameUI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:07D9
+[2019.01.14-23.02.36:370][300]LogScript: Warning: Script call stack:
+	Function /Game/2DSideScrollerBP/Blueprints/GameUI/MainMenu.MainMenu_C:BndEvt__PlayGameButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature
+	Function /Game/2DSideScrollerBP/Blueprints/GameUI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+
+[2019.01.14-23.02.36:370][300]LogBlueprintUserMessages: [MainMenu_C_0] true
+[2019.01.14-23.02.36:371][300]LogBlueprintUserMessages: [MainMenu_C_0] notvalid
+[2019.01.14-23.02.42:774][697]LogBlueprintUserMessages: [TrenchGameInstance_C_0] yes
+[2019.01.14-23.02.43:110][711]LogOnlineSession: Verbose: OSS: dumping NamedSession: 
+[2019.01.14-23.02.43:110][711]LogOnlineSession: Verbose: OSS: 	SessionName: GameSession
+[2019.01.14-23.02.43:110][711]LogOnlineSession: Verbose: OSS: 	HostingPlayerNum: 0
+[2019.01.14-23.02.43:110][711]LogOnlineSession: Verbose: OSS: 	SessionState: Pending
+[2019.01.14-23.02.43:110][711]LogOnlineSession: Verbose: OSS: 	RegisteredPlayers: 
+[2019.01.14-23.02.43:110][711]LogOnlineSession: Verbose: OSS: 	    0 registered players
+[2019.01.14-23.02.43:110][711]LogOnlineSession: Verbose: OSS: dumping Session: 
+[2019.01.14-23.02.43:110][711]LogOnlineSession: Verbose: OSS: 	OwningPlayerName: Claydel
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	OwningPlayerId: Claydel [0x110000105EC1B2F]
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	NumOpenPrivateConnections: 0
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	NumOpenPublicConnections: 5
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	SessionInfo: HostIP: INVALID SteamP2P: 76561198059625263:7777 Type: Lobby session SessionId: Lobby [0x18600000116B2FA]
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: dumping SessionSettings: 
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	NumPublicConnections: 6
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	NumPrivateConnections: 0
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	bIsLanMatch: false
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	bIsDedicated: false
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	bUsesStats: false
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	bShouldAdvertise: true
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	bAllowJoinInProgress: true
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	bAllowInvites: false
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	bUsesPresence: true
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	bAllowJoinViaPresence: true
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	bAllowJoinViaPresenceFriendsOnly: false
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	BuildUniqueId: 0x0040486f
+[2019.01.14-23.02.43:112][711]LogOnlineSession: Verbose: OSS: 	Settings:
+[2019.01.14-23.02.43:818][711]LogPackageName: SearchForPackageOnDisk took   0.706s to resolve 2DSideScrollerExampleMap.umap.
+[2019.01.14-23.02.44:489][711]LogPackageName: SearchForPackageOnDisk took   0.670s to resolve 2DSideScrollerExampleMap.umap.
+[2019.01.14-23.02.44:489][711]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2019.01.14-23.02.44:489][711]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2019.01.14-23.02.45:693][711]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.14-23.02.45:693][711]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.14-23.02.45:722][711]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.01.14-18.02.45
+[2019.01.14-23.02.45:722][711]LogWorld: Bringing up level for play took: 0.027908
+[2019.01.14-23.02.45:725][711]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.02.45:725][711]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.02.45:729][711]LogLoad: Took 1.239997 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap)
+[2019.01.14-23.02.45:733][712]LogBlueprintUserMessages: [Cube_Blueprint] land
+[2019.01.14-23.02.46:944][787]LogOutputDevice: Warning: 
+
+Script Stack:
+TroopSpawner_C.ExecuteUbergraph_TroopSpawner
+
+[2019.01.14-23.02.48:677][787]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.733 s
+[2019.01.14-23.02.48:677][787]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.14-23.02.48:677][787]LogOutputDevice: Error: 
+[2019.01.14-23.02.48:677][787]LogOutputDevice: Error: Ensure condition failed: Cast<APawn>(NewUpdatedComponent->GetOwner()) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Components\PawnMovementComponent.cpp] [Line: 16]
+[2019.01.14-23.02.48:677][787]LogOutputDevice: Error: FloatingPawnMovement must update a component owned by a Pawn
+[2019.01.14-23.02.48:677][787]LogOutputDevice: Error: Stack: 
+[2019.01.14-23.02.48:677][787]LogOutputDevice: Error: [Callstack] 0x00007ffef1b571f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.14-23.02.48:677][787]LogOutputDevice: Error: [Callstack] 0x00007ffef1890c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.14-23.02.48:677][787]LogOutputDevice: Error: [Callstack] 0x00007ffef18ab356 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.14-23.02.48:677][787]LogOutputDevice: Error: [Callstack] 0x00007ffef370dbd5 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:677][787]LogOutputDevice: Error: [Callstack] 0x00007ffef36fa21b UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef3618d13 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef3642003 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef3640ea5 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef41be591 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef32846fb UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef32887c4 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef32a76f3 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef3bef646 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef3befc87 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef3f98232 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef3f88d15 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef35b97c8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef32a378e UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef328892f UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef3988eaf UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef32d9626 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef2b76467 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef2d816ae UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef2d9f499 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef2dd2266 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef2da1b96 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef2b76467 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef2da1133 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef32a8033 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef3b6ae8f UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef3b5069e UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef32c6bbe UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef32c730c UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef3285630 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef44816bd UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef1711f92 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef1712456 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef1726d25 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef44d5b04 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef44e4d92 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef3be87e4 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef3bf4003 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ffef39b5375 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ff6b5585cbd UE4Editor.exe!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ff6b5595b3c UE4Editor.exe!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ff6b5595bba UE4Editor.exe!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ff6b55a3dac UE4Editor.exe!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007ff6b55a5aaa UE4Editor.exe!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007fff5a3b7e94 KERNEL32.DLL!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: [Callstack] 0x00007fff5a62a251 ntdll.dll!UnknownFunction []
+[2019.01.14-23.02.48:678][787]LogOutputDevice: Error: 
+[2019.01.14-23.02.48:688][787]LogStats:                SubmitErrorReport -  0.000 s
+[2019.01.14-23.02.50:807][787]LogStats:                    SendNewReport -  2.119 s
+[2019.01.14-23.02.50:807][787]LogStats:             FDebug::EnsureFailed -  3.863 s
+[2019.01.14-23.03.00:210][370]LogBlueprintUserMessages: [PBullet_C_2] 2DSideScrollerCharacter
+[2019.01.14-23.03.12:221][111]LogBlueprintUserMessages: [Cube_Blueprint] takeoff
+[2019.01.14-23.03.13:097][165]LogBlueprintUserMessages: [Cube_Blueprint] land
+[2019.01.14-23.03.14:669][262]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.14:704][264]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.14:704][264]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.14:704][264]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.15:670][324]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.15:707][326]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.15:707][326]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.15:707][326]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.16:710][388]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.16:710][388]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.16:711][388]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.16:741][390]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.17:709][450]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.17:709][450]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.17:710][450]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.17:739][452]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.18:711][512]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.18:712][512]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.18:712][512]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.18:740][514]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.19:710][574]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.19:710][574]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.19:710][574]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.19:738][576]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.20:473][622]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.20:474][622]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.20:474][622]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.20:474][622]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.20:474][622]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.20:474][622]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.20:474][622]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.20:474][622]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.20:474][622]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.20:474][622]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.20:474][622]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.20:474][622]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.20:714][636]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.20:714][636]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.20:714][636]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.20:742][638]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.21:713][698]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.21:713][698]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.21:713][698]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.21:740][700]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.22:716][760]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.22:716][760]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.22:716][760]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.22:742][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.23:712][822]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.23:712][822]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.23:713][822]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.23:743][824]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.24:720][884]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.24:720][884]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.24:720][884]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.24:747][886]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.25:716][946]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.25:717][946]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.25:717][946]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.25:745][948]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.26:720][  8]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.26:720][  8]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.26:721][  8]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.26:747][ 10]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.27:732][ 70]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.27:732][ 70]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.27:732][ 70]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.27:759][ 72]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.28:496][118]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.28:496][118]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.28:496][118]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.28:496][118]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.28:496][118]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.28:496][118]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.28:496][118]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.28:496][118]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.28:496][118]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.28:496][118]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.28:496][118]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.28:496][118]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.28:730][132]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.28:730][132]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.28:730][132]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.28:758][134]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.29:730][194]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.29:730][194]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.29:730][194]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.29:759][196]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.30:734][256]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.30:734][256]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.30:735][256]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.30:759][258]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.30:790][260]LogBlueprintUserMessages: [Cube_Blueprint] takeoff
+[2019.01.14-23.03.31:730][318]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.31:730][318]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.31:730][318]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.31:759][320]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.31:823][324]LogBlueprintUserMessages: [Cube_Blueprint] land
+[2019.01.14-23.03.32:734][380]LogBlueprintUserMessages: [Cube_Blueprint] takeoff
+[2019.01.14-23.03.32:735][380]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.32:735][380]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.32:735][380]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.33:732][442]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.33:761][444]LogBlueprintUserMessages: [Cube_Blueprint] land
+[2019.01.14-23.03.34:753][505]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.35:752][567]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.36:500][614]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.36:501][614]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.36:501][614]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.36:501][614]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.36:501][614]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.36:501][614]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.36:501][614]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.36:501][614]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.36:501][614]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.36:501][614]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.36:501][614]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Brute' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.01.14-23.03.36:501][614]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.01.14-23.03.36:752][629]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.01.14-23.03.42:057][951]LogSlate: Window 'TrenchTowers (64-bit Development PCD3D_SM5) ' being destroyed
+[2019.01.14-23.03.42:064][951]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.14-23.03.42:069][951]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.14-23.03.42:070][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-23.03.42:071][951]LogEngine: All Windows Closed
+[2019.01.14-23.03.42:071][951]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.01.14-23.03.42:646][952]LogExit: Preparing to exit.
+[2019.01.14-23.03.42:646][952]LogMoviePlayer: Shutting down movie player
+[2019.01.14-23.03.43:669][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-23.03.43:696][952]LogExit: Game engine shut down
+[2019.01.14-23.03.44:254][952]LogExit: Object subsystem successfully closed.
+[2019.01.14-23.03.44:269][952]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.14-23.03.44:273][952]LogD3D11RHI: Shutdown
+[2019.01.14-23.03.44:273][952]LogD3D11RHI: CleanupD3DDevice
+[2019.01.14-23.03.44:275][952]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (380)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module SequenceRecorder (378)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module AutomationController (376)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module AutomationWorker (374)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module AIModule (372)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module GameplayDebugger (371)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module AITestSuite (369)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module NavigationSystem (367)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (364)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (362)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (360)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (358)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (356)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (354)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module CharacterAI (352)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module SessionServices (350)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (348)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (346)
+[2019.01.14-23.03.44:285][952]LogModuleManager: Shutting down and abandoning module MovieScene (344)
+[2019.01.14-23.03.44:286][952]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (342)
+[2019.01.14-23.03.44:286][952]LogModuleManager: Shutting down and abandoning module PortalServices (340)
+[2019.01.14-23.03.44:286][952]LogModuleManager: Shutting down and abandoning module PortalRpc (338)
+[2019.01.14-23.03.44:286][952]LogModuleManager: Shutting down and abandoning module MessagingRpc (336)
+[2019.01.14-23.03.44:286][952]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module SteamController (328)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module EditableMesh (320)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (318)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module CableComponent (316)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module AudioCapture (314)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (312)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module AndroidPermission (310)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (306)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (304)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module MediaCompositing (302)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module LinearTimecode (300)
+[2019.01.14-23.03.44:553][952]LogModuleManager: Shutting down and abandoning module ImgMedia (298)
+[2019.01.14-23.03.44:559][952]LogModuleManager: Shutting down and abandoning module HTML5Networking (296)
+[2019.01.14-23.03.44:559][952]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (294)
+[2019.01.14-23.03.44:559][952]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (293)
+[2019.01.14-23.03.44:559][952]LogModuleManager: Shutting down and abandoning module GeometryCache (290)
+[2019.01.14-23.03.44:559][952]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (289)
+[2019.01.14-23.03.44:559][952]LogModuleManager: Shutting down and abandoning module BackChannel (286)
+[2019.01.14-23.03.44:559][952]LogModuleManager: Shutting down and abandoning module AppleVision (284)
+[2019.01.14-23.03.44:560][952]LogModuleManager: Shutting down and abandoning module AppleImageUtils (282)
+[2019.01.14-23.03.44:560][952]LogModuleManager: Shutting down and abandoning module DatasmithContent (280)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (278)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module CryptoKeys (276)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (274)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (272)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (268)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module UObjectPlugin (266)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (264)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (262)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module SourceControl (261)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (258)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (256)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (254)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module PhysXVehicles (252)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (250)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (248)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (246)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module ActorSequence (244)
+[2019.01.14-23.03.44:561][952]LogModuleManager: Shutting down and abandoning module UdpMessaging (242)
+[2019.01.14-23.03.44:663][952]LogModuleManager: Shutting down and abandoning module TcpMessaging (240)
+[2019.01.14-23.03.44:764][952]LogModuleManager: Shutting down and abandoning module CreaturePackRuntimePlugin (238)
+[2019.01.14-23.03.44:764][952]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (236)
+[2019.01.14-23.03.44:764][952]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (234)
+[2019.01.14-23.03.44:764][952]LogModuleManager: Shutting down and abandoning module FacialAnimation (232)
+[2019.01.14-23.03.44:764][952]LogModuleManager: Shutting down and abandoning module DataValidation (230)
+[2019.01.14-23.03.44:764][952]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (228)
+[2019.01.14-23.03.44:764][952]LogModuleManager: Shutting down and abandoning module TreeMap (227)
+[2019.01.14-23.03.44:764][952]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (224)
+[2019.01.14-23.03.44:764][952]LogModuleManager: Shutting down and abandoning module AISupportModule (222)
+[2019.01.14-23.03.44:764][952]LogModuleManager: Shutting down and abandoning module Paper2D (220)
+[2019.01.14-23.03.44:764][952]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (218)
+[2019.01.14-23.03.44:764][952]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2019.01.14-23.03.44:764][952]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2019.01.14-23.03.44:765][952]LogModuleManager: Shutting down and abandoning module Media (213)
+[2019.01.14-23.03.44:771][952]LogModuleManager: Shutting down and abandoning module PacketHandler (210)
+[2019.01.14-23.03.44:771][952]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (208)
+[2019.01.14-23.03.44:771][952]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (206)
+[2019.01.14-23.03.44:771][952]LogModuleManager: Shutting down and abandoning module MediaAssets (204)
+[2019.01.14-23.03.44:771][952]LogModuleManager: Shutting down and abandoning module Overlay (202)
+[2019.01.14-23.03.44:771][952]LogModuleManager: Shutting down and abandoning module OverlayEditor (201)
+[2019.01.14-23.03.44:772][952]LogModuleManager: Shutting down and abandoning module VREditor (198)
+[2019.01.14-23.03.44:772][952]LogModuleManager: Shutting down and abandoning module StringTableEditor (196)
+[2019.01.14-23.03.44:772][952]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (194)
+[2019.01.14-23.03.44:772][952]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (192)
+[2019.01.14-23.03.44:772][952]LogModuleManager: Shutting down and abandoning module FunctionalTesting (190)
+[2019.01.14-23.03.44:772][952]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (188)
+[2019.01.14-23.03.44:772][952]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (187)
+[2019.01.14-23.03.44:772][952]LogModuleManager: Shutting down and abandoning module UMG (184)
+[2019.01.14-23.03.44:772][952]LogModuleManager: Shutting down and abandoning module UMGEditor (183)
+[2019.01.14-23.03.44:772][952]LogModuleManager: Shutting down and abandoning module Sequencer (182)
+[2019.01.14-23.03.44:772][952]LogModuleManager: Shutting down and abandoning module MessageLog (179)
+[2019.01.14-23.03.44:772][952]LogModuleManager: Shutting down and abandoning module SlateReflector (174)
+[2019.01.14-23.03.44:772][952]LogModuleManager: Shutting down and abandoning module Slate (172)
+[2019.01.14-23.03.44:772][952]LogModuleManager: Shutting down and abandoning module EditorStyle (170)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module MRMesh (168)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module Messaging (166)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (164)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (162)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module XAudio2 (160)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module Networking (158)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module Core (156)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module LevelSequence (154)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module KismetCompiler (152)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module MeshUtilities (150)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (149)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (148)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (147)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (145)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (143)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (141)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module MaterialBaking (137)
+[2019.01.14-23.03.44:774][952]LogModuleManager: Shutting down and abandoning module DerivedDataCache (132)
+[2019.01.14-23.03.45:187][952]LogDerivedDataCache: Shutdown
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module XGEController (130)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module TargetPlatform (128)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (127)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (125)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (123)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (121)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (119)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (117)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (115)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (113)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (111)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (109)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module ImageWrapper (108)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (105)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (103)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (101)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (99)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (97)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (95)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (93)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (91)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.01.14-23.03.45:187][952]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.01.14-23.03.45:188][952]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.01.14-23.03.45:188][952]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.01.14-23.03.45:188][952]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.01.14-23.03.45:188][952]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.01.14-23.03.45:188][952]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.01.14-23.03.45:188][952]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.01.14-23.03.45:188][952]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.01.14-23.03.45:188][952]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.01.14-23.03.45:240][952]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.01.14-23.03.45:240][952]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.01.14-23.03.45:240][952]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.01.14-23.03.45:270][952]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.01.14-23.03.45:303][952]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.01.14-23.03.45:305][952]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.01.14-23.03.45:306][952]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.01.14-23.03.45:306][952]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.01.14-23.03.45:306][952]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.01.14-23.03.45:306][952]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.01.14-23.03.45:306][952]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.01.14-23.03.45:306][952]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.01.14-23.03.45:306][952]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.01.14-23.03.45:306][952]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.01.14-23.03.45:306][952]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.14-23.03.45:306][952]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.01.14-23.03.45:306][952]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.14-23.03.45:306][952]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.14-23.03.45:306][952]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.14-23.03.45:306][952]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.14-23.03.45:307][952]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.14-23.03.45:307][952]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.14-23.03.45:307][952]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.14-23.03.45:307][952]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.14-23.03.45:307][952]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.14-23.03.45:307][952]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.14-23.03.45:307][952]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.14-23.03.45:307][952]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.14-23.03.45:307][952]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.14-23.03.45:307][952]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.14-23.03.45:307][952]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.14-23.03.45:307][952]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.14-23.03.45:307][952]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.14-23.03.45:307][952]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.14-23.03.45:329][952]LogExit: Exiting.
+[2019.01.14-23.03.45:340][952]Log file closed, 01/14/19 18:03:45
