@@ -1597,32 +1597,32 @@
 "../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 1596
 "../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" 1597
 "../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/MouseAndMove.uasset" 1598
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1599
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1600
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1601
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1602
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/Stardust.uasset" 1603
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/Stardust_Sprite.uasset" 1604
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Projectiles/PBullet.uasset" 1605
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Projectiles/SBullet.uasset" 1606
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/WeaponEnum.uasset" 1607
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/GameUI/GameUI.uasset" 1608
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyidle.uasset" 1609
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyidle_Sprite.uasset" 1610
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/IdleDummy.uasset" 1611
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm1.uasset" 1612
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm1_Sprite.uasset" 1613
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm2.uasset" 1614
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm2_Sprite.uasset" 1615
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun1.uasset" 1616
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun1_Sprite.uasset" 1617
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun2.uasset" 1618
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun2_Sprite.uasset" 1619
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun.uasset" 1620
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4DummyrunRev.uasset" 1621
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Characters/2DSideScrollerCharacter.uasset" 1622
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/2DSideScrollerGameMode.uasset" 1623
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 1624
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/2DSideScrollerGameMode.uasset" 1599
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 1600
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1601
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1602
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1603
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1604
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/Stardust.uasset" 1605
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/Stardust_Sprite.uasset" 1606
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Projectiles/PBullet.uasset" 1607
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Projectiles/SBullet.uasset" 1608
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/WeaponEnum.uasset" 1609
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/GameUI/GameUI.uasset" 1610
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyidle.uasset" 1611
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyidle_Sprite.uasset" 1612
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/IdleDummy.uasset" 1613
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm1.uasset" 1614
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm1_Sprite.uasset" 1615
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm2.uasset" 1616
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm2_Sprite.uasset" 1617
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun1.uasset" 1618
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun1_Sprite.uasset" 1619
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun2.uasset" 1620
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun2_Sprite.uasset" 1621
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun.uasset" 1622
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4DummyrunRev.uasset" 1623
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Characters/2DSideScrollerCharacter.uasset" 1624
 "../../../Engine/Content/BasicShapes/M_Cube_M_Concrete_Panels_86E12A0444794D2FC4AFC8993B47978B.uasset" 1625
 "../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/Asset_1.uasset" 1626
 "../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/Asset_1_Sprite.uasset" 1627

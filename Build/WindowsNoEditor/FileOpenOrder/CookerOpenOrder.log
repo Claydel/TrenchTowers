@@ -310,40 +310,19 @@
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 309
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 310
 "../../../Engine/Content/Maps/Entry.umap" 311
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 312
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/MouseAndMove.uasset" 313
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 314
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/Stardust.uasset" 315
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/Stardust_Sprite.uasset" 316
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Projectiles/PBullet.uasset" 317
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Projectiles/SBullet.uasset" 318
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/WeaponEnum.uasset" 319
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/GameUI/GameUI.uasset" 320
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyidle.uasset" 321
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyidle_Sprite.uasset" 322
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/IdleDummy.uasset" 323
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm1.uasset" 324
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm1_Sprite.uasset" 325
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm2.uasset" 326
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm2_Sprite.uasset" 327
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun1.uasset" 328
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun1_Sprite.uasset" 329
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun2.uasset" 330
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun2_Sprite.uasset" 331
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun.uasset" 332
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4DummyrunRev.uasset" 333
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Characters/2DSideScrollerCharacter.uasset" 334
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/2DSideScrollerGameMode.uasset" 335
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/GameUI/LoadingScreen.uasset" 336
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/PlayerInfo.uasset" 337
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/PlayerSaveGame.uasset" 338
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/ImageEnum.uasset" 339
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/BS_Hunter.uasset" 340
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/BS_Mage.uasset" 341
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/BS_Rogue.uasset" 342
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/BS_Warrior.uasset" 343
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 344
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/GameUI/MainMenu.uasset" 345
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/TrenchGameInstance.uasset" 346
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Maps/MainMenu_BuiltData.uasset" 347
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Maps/MainMenu.umap" 348
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/MouseAndMove.uasset" 312
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/2DSideScrollerGameMode.uasset" 313
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 314
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/GameUI/LoadingScreen.uasset" 315
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/PlayerInfo.uasset" 316
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/PlayerSaveGame.uasset" 317
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/ImageEnum.uasset" 318
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/BS_Hunter.uasset" 319
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/BS_Mage.uasset" 320
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/BS_Rogue.uasset" 321
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/BS_Warrior.uasset" 322
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 323
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/GameUI/MainMenu.uasset" 324
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/TrenchGameInstance.uasset" 325
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Maps/MainMenu_BuiltData.uasset" 326
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Maps/MainMenu.umap" 327
