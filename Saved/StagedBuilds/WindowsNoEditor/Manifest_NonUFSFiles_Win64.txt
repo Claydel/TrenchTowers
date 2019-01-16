@@ -1,6 +1,6 @@
-TrenchTowers/Binaries/Win64/TrenchTowers.exe	2019-01-15T01:53:06.673Z
+TrenchTowers/Binaries/Win64/TrenchTowers.exe	2019-01-16T00:47:24.421Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2018-09-05T22:29:40.449Z
-Engine/Binaries/ThirdParty/Steamworks/Steamv142/Win64/steam_api64.dll	2018-12-10T22:29:26.543Z
+Engine/Binaries/ThirdParty/Steamworks/Steamv139/Win64/steam_api64.dll	2018-09-05T22:29:54.698Z
 Engine/Config/controller.vdf	2018-09-05T22:31:00.300Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundationPROFILE_x64.dll	2018-09-05T22:29:54.480Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDKPROFILE_x64.dll	2018-09-05T22:29:54.547Z
@@ -17,4 +17,4 @@ Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_11/Win64/openvr_api.dll	2018-09-05T
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2018-09-05T22:29:40.493Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2018-09-05T22:30:00.551Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2018-09-05T22:30:00.567Z
-TrenchTowers.exe	2019-01-15T01:53:18.801Z
+TrenchTowers.exe	2019-01-16T00:47:37.004Z
