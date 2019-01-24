@@ -13,11 +13,11 @@
 			"Enabled": false
 		},
 		{
-			"Name": "OnlineSubsystemSteam",
+			"Name": "SteamController",
 			"Enabled": true
 		},
 		{
-			"Name": "SteamController",
+			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
 		}
 	],

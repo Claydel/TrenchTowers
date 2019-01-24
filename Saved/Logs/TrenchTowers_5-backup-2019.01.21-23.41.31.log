@@ -1,0 +1,392 @@
+﻿Log file open, 01/21/19 23:33:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TrenchTowers
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.412002
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.132s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: Verbose: OSS: Created thread (ID:5352).
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  /Game/2DSideScrollerBP/Maps/MainMenu -game -PIEVIACONSOLE -ResX=640 -ResY=480  -Multiprocess -messaging -SessionName="Play in Standalone Game" -port=7777 -windowed GameUserSettingsINI="D:/Program Files (x86)/TrenchTowers 4.20/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig  -MultiprocessOSS -server -log 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.22-04.33.22:248][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.22-04.33.22:269][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.22-04.33.22:301][  0]LogHAL: Display: Platform has ~ 16 GB [17044942848 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.22-04.33.22:301][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.22-04.33.22:302][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.22-04.33.22:303][  0]LogInit: Computer: DESKTOP-RI1ETNT
+[2019.01.22-04.33.22:304][  0]LogInit: User: Fires
+[2019.01.22-04.33.22:305][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.22-04.33.22:306][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.01.22-04.33.22:307][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.22-04.33.22:307][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.22-04.33.22:308][  0]LogMemory: Process Physical Memory: 101.87 MB used, 101.87 MB peak
+[2019.01.22-04.33.22:308][  0]LogMemory: Process Virtual Memory: 95.44 MB used, 95.44 MB peak
+[2019.01.22-04.33.22:309][  0]LogMemory: Physical Memory: 7599.27 MB used,  8656.05 MB free, 16255.32 MB total
+[2019.01.22-04.33.22:310][  0]LogMemory: Virtual Memory: 4639.58 MB used,  8656.05 MB free, 134217728.00 MB total
+[2019.01.22-04.33.26:424][  0]LogInit: Using OS detected language (en-US).
+[2019.01.22-04.33.26:437][  0]LogInit: Using OS detected locale (en-CA).
+[2019.01.22-04.33.26:478][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.22-04.33.27:118][  0]LogStreaming: Display: Took  0.695s to InitEngineTextLocalization.
+[2019.01.22-04.33.27:302][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Program Files (x86)/TrenchTowers 4.20/Intermediate/Shaders/WorkingDirectory/16296/).
+[2019.01.22-04.33.27:339][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Fires/AppData/Local/Temp/UnrealShaderWorkingDir/2F9FCDFB4B9370EA0EE54BB6672ECBB2/'.
+[2019.01.22-04.33.29:397][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.22-04.33.29:444][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.22-04.33.29:488][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.22-04.33.29:528][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.22-04.33.29:528][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.22-04.33.30:176][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.22-04.33.30:182][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.22-04.33.30:185][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.22-04.33.31:344][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.22-04.33.31:437][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Fires/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.22-04.33.31:441][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Fires/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.22-04.33.31:445][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Program Files (x86)/TrenchTowers 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.22-04.33.31:447][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.22-04.33.31:448][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Program Files (x86)/TrenchTowers 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.22-04.33.31:461][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.22-04.33.31:499][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.22-04.33.31:541][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Fires/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.22-04.33.31:544][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.22-04.33.31:573][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.22-04.33.31:589][  0]LogInit: Using OS detected language (en-US).
+[2019.01.22-04.33.31:629][  0]LogInit: Using OS detected locale (en-CA).
+[2019.01.22-04.33.31:640][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2019.01.22-04.33.31:651][  0]LogTextLocalizationManager: No localization for 'en-CA' exists, so 'en' will be used for the locale.
+[2019.01.22-04.33.32:120][  0]LogStreaming: Display: Took  0.532s to InitGameTextLocalization.
+[2019.01.22-04.33.32:159][  0]LogAssetRegistry: FAssetRegistry took 0.0085 seconds to start up
+[2019.01.22-04.33.32:578][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.034664 seconds
+[2019.01.22-04.33.32:795][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.22-04.33.33:096][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.22-04.33.33:160][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.22-04.33.33:161][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.22-04.33.33:162][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.22-04.33.33:163][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.22-04.33.33:186][  0]LogNetVersion: TrenchTowers 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1537713906)
+[2019.01.22-04.33.34:653][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.22-04.33.34:689][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.22-04.33.34:929][  0]SourceControl: Source control is disabled
+[2019.01.22-04.33.34:944][  0]SourceControl: Source control is disabled
+[2019.01.22-04.33.34:990][  0]SourceControl: Source control is disabled
+[2019.01.22-04.33.35:884][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.22-04.33.36:127][  0]LogOcInput: OculusInput pre-init called
+[2019.01.22-04.33.36:166][  0]LogUObjectArray: 41858 objects as part of root set at end of initial load.
+[2019.01.22-04.33.36:170][  0]LogUObjectAllocator: 7347728 out of 0 bytes used by permanent object pool.
+[2019.01.22-04.33.36:172][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.22-04.33.36:446][  0]LogEngine: Initializing Engine...
+[2019.01.22-04.33.36:457][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.22-04.33.36:464][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.22-04.33.36:538][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.22-04.33.36:551][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.22-04.33.36:586][  0]LogInit: Texture streaming: Disabled
+[2019.01.22-04.33.37:026][  0]LogInit: Display: Game Engine Initialized.
+[2019.01.22-04.33.37:037][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.22-04.33.37:057][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.22-04.33.37:061][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.22-04.33.37:121][  0]LogInit: Display: Starting Game.
+[2019.01.22-04.33.37:142][  0]LogNet: Browse: /Game/2DSideScrollerBP/Maps/MainMenu?Name=Player
+[2019.01.22-04.33.37:157][  0]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/MainMenu?Name=Player
+[2019.01.22-04.33.37:356][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.22-04.33.37:366][  0]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.22-04.33.37:371][  0]LogOnline: Warning: STEAM: Steam API disabled!
+[2019.01.22-04.33.37:380][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.01.22-04.33.37:381][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.01.22-04.33.37:382][  0]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.01.22-04.33.37:382][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.01.22-04.33.37:384][  0]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.01.22-04.33.37:385][  0]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.01.22-04.33.37:403][  0]LogInit: WinSock: I am DESKTOP-RI1ETNT (192.168.1.115:0)
+[2019.01.22-04.33.37:406][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.01.22-04.33.37:415][  0]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2019.01.22-04.33.37:419][  0]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/MainMenu.MainMenu up for play (max tick rate 30) at 2019.01.21-23.33.37
+[2019.01.22-04.33.37:420][  0]LogWorld: Bringing up level for play took: 0.001389
+[2019.01.22-04.33.37:421][  0]LogScript: Warning: Accessed None trying to read property MainMenuWidget
+	TrenchGameInstance_C /Engine/Transient.GameEngine_0:TrenchGameInstance_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/Gameplay/TrenchGameInstance.TrenchGameInstance_C:ExecuteUbergraph_TrenchGameInstance:0124
+[2019.01.22-04.33.37:423][  0]LogScript: Warning: Script call stack:
+	Function /Game/2DSideScrollerBP/Maps/MainMenu.MainMenu_C:ReceiveBeginPlay
+	Function /Game/2DSideScrollerBP/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+	Function /Game/2DSideScrollerBP/Blueprints/Gameplay/TrenchGameInstance.TrenchGameInstance_C:ShowMainMenu
+	Function /Game/2DSideScrollerBP/Blueprints/Gameplay/TrenchGameInstance.TrenchGameInstance_C:ExecuteUbergraph_TrenchGameInstance
+
+[2019.01.22-04.33.37:425][  0]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	TrenchGameInstance_C /Engine/Transient.GameEngine_0:TrenchGameInstance_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/Gameplay/TrenchGameInstance.TrenchGameInstance_C:ExecuteUbergraph_TrenchGameInstance:017A
+[2019.01.22-04.33.37:429][  0]LogScript: Warning: Script call stack:
+	Function /Game/2DSideScrollerBP/Maps/MainMenu.MainMenu_C:ReceiveBeginPlay
+	Function /Game/2DSideScrollerBP/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+	Function /Game/2DSideScrollerBP/Blueprints/Gameplay/TrenchGameInstance.TrenchGameInstance_C:ShowMainMenu
+	Function /Game/2DSideScrollerBP/Blueprints/Gameplay/TrenchGameInstance.TrenchGameInstance_C:ExecuteUbergraph_TrenchGameInstance
+
+[2019.01.22-04.33.37:430][  0]LogLoad: Took 0.273736 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/MainMenu)
+[2019.01.22-04.33.37:611][  0]LogLoad: (Engine Initialization) Total time: 35.84 seconds
+[2019.01.22-04.33.37:611][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.22-04.33.37:684][  0]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52681
+[2019.01.22-04.33.37:690][  0]LogHandshake: SendConnectChallenge. Timestamp: 0.034105, Cookie: 127038184125029119032212127060006187020104182001000246050118
+[2019.01.22-04.33.37:692][  0]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52682
+[2019.01.22-04.33.37:696][  0]LogHandshake: SendConnectChallenge. Timestamp: 0.034105, Cookie: 180062215033014230155229024108061188213190085229004056104063
+[2019.01.22-04.33.38:037][ 10]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52681
+[2019.01.22-04.33.38:038][ 10]LogHandshake: SendChallengeAck. InCookie: 127038184125029119032212127060006187020104182001000246050118
+[2019.01.22-04.33.38:040][ 10]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52681
+[2019.01.22-04.33.38:045][ 10]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.01.22-04.33.38:049][ 10]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 01/21/19 23:33:38, [UNetConnection] RemoteAddr: 127.0.0.1:52681, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.22-04.33.38:051][ 10]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52681, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.22-04.33.38:052][ 10]LogNet: NotifyAcceptingChannel Control 0 server World /Game/2DSideScrollerBP/Maps/MainMenu.MainMenu: Accepted
+[2019.01.22-04.33.38:053][ 10]LogNet: Remote platform little endian=1
+[2019.01.22-04.33.38:054][ 10]LogNet: This platform little endian=1
+[2019.01.22-04.33.38:054][ 10]LogNetVersion: TrenchTowers 1.0.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2119075378)
+[2019.01.22-04.33.38:076][ 11]LogNet: Login request: /Game/2DSideScrollerBP/Maps/MainMenu?Name=DESKTOP-RI1ETNT-4D8BF4424B323F0CD186C384C94933B3 userId: DESKTOP-RI1ETNT-4D8BF4424B323F0CD186C384C94933B3
+[2019.01.22-04.33.38:110][ 12]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52677
+[2019.01.22-04.33.38:115][ 12]LogHandshake: SendConnectChallenge. Timestamp: 0.496149, Cookie: 061231007251191067089197104140123044105165178059148057053070
+[2019.01.22-04.33.38:124][ 12]LogNet: Client netspeed is 10000
+[2019.01.22-04.33.38:128][ 12]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52678
+[2019.01.22-04.33.38:143][ 12]LogHandshake: SendConnectChallenge. Timestamp: 0.496149, Cookie: 042072042192225184169096047136057011156240036063056072086052
+[2019.01.22-04.33.38:154][ 12]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52679
+[2019.01.22-04.33.38:157][ 12]LogHandshake: SendConnectChallenge. Timestamp: 0.496149, Cookie: 066110088168108170115166239014153021127197044220179248053094
+[2019.01.22-04.33.38:195][ 14]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52679
+[2019.01.22-04.33.38:201][ 14]LogHandshake: SendChallengeAck. InCookie: 066110088168108170115166239014153021127197044220179248053094
+[2019.01.22-04.33.38:204][ 14]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52679
+[2019.01.22-04.33.38:205][ 14]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.01.22-04.33.38:205][ 14]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 01/21/19 23:33:38, [UNetConnection] RemoteAddr: 127.0.0.1:52679, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.22-04.33.38:206][ 14]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52679, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.22-04.33.38:207][ 14]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52677
+[2019.01.22-04.33.38:208][ 14]LogHandshake: SendChallengeAck. InCookie: 061231007251191067089197104140123044105165178059148057053070
+[2019.01.22-04.33.38:209][ 14]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52677
+[2019.01.22-04.33.38:210][ 14]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.01.22-04.33.38:210][ 14]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 01/21/19 23:33:38, [UNetConnection] RemoteAddr: 127.0.0.1:52677, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.22-04.33.38:211][ 14]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52677, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.22-04.33.38:216][ 14]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52682
+[2019.01.22-04.33.38:217][ 14]LogHandshake: SendChallengeAck. InCookie: 180062215033014230155229024108061188213190085229004056104063
+[2019.01.22-04.33.38:218][ 14]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52682
+[2019.01.22-04.33.38:219][ 14]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.01.22-04.33.38:219][ 14]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 01/21/19 23:33:38, [UNetConnection] RemoteAddr: 127.0.0.1:52682, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.22-04.33.38:220][ 14]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52682, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.22-04.33.38:221][ 14]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52678
+[2019.01.22-04.33.38:222][ 14]LogHandshake: SendChallengeAck. InCookie: 042072042192225184169096047136057011156240036063056072086052
+[2019.01.22-04.33.38:223][ 14]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52678
+[2019.01.22-04.33.38:225][ 14]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.01.22-04.33.38:225][ 14]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 01/21/19 23:33:38, [UNetConnection] RemoteAddr: 127.0.0.1:52678, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.22-04.33.38:230][ 14]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52678, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.22-04.33.38:231][ 14]LogNet: NotifyAcceptingChannel Control 0 server World /Game/2DSideScrollerBP/Maps/MainMenu.MainMenu: Accepted
+[2019.01.22-04.33.38:233][ 14]LogNet: Remote platform little endian=1
+[2019.01.22-04.33.38:234][ 14]LogNet: This platform little endian=1
+[2019.01.22-04.33.38:235][ 14]LogNet: NotifyAcceptingChannel Control 0 server World /Game/2DSideScrollerBP/Maps/MainMenu.MainMenu: Accepted
+[2019.01.22-04.33.38:237][ 14]LogNet: Remote platform little endian=1
+[2019.01.22-04.33.38:238][ 14]LogNet: This platform little endian=1
+[2019.01.22-04.33.38:239][ 14]LogNet: Join request: /Game/2DSideScrollerBP/Maps/MainMenu?Name=DESKTOP-RI1ETNT-4D8BF4424B323F0CD186C384C94933B3?SplitscreenCount=1
+[2019.01.22-04.33.38:241][ 14]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.01.22-04.33.38:242][ 14]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.22-04.33.38:244][ 14]LogNet: Join succeeded: DESKTOP-RI1ETNT-4D8B
+[2019.01.22-04.33.38:245][ 14]LogNet: NotifyAcceptingChannel Control 0 server World /Game/2DSideScrollerBP/Maps/MainMenu.MainMenu: Accepted
+[2019.01.22-04.33.38:247][ 14]LogNet: Remote platform little endian=1
+[2019.01.22-04.33.38:249][ 14]LogNet: This platform little endian=1
+[2019.01.22-04.33.38:250][ 14]LogNet: NotifyAcceptingChannel Control 0 server World /Game/2DSideScrollerBP/Maps/MainMenu.MainMenu: Accepted
+[2019.01.22-04.33.38:251][ 14]LogNet: Remote platform little endian=1
+[2019.01.22-04.33.38:252][ 14]LogNet: This platform little endian=1
+[2019.01.22-04.33.38:252][ 14]LogNet: Login request: /Game/2DSideScrollerBP/Maps/MainMenu?Name=DESKTOP-RI1ETNT-3D84DED0408D5A1C6664949C504D17A1 userId: DESKTOP-RI1ETNT-3D84DED0408D5A1C6664949C504D17A1
+[2019.01.22-04.33.38:254][ 14]LogNet: Login request: /Game/2DSideScrollerBP/Maps/MainMenu?Name=DESKTOP-RI1ETNT-9239383841E3B81E9C2C5B9693F6816D userId: DESKTOP-RI1ETNT-9239383841E3B81E9C2C5B9693F6816D
+[2019.01.22-04.33.38:290][ 16]LogNet: Client netspeed is 10000
+[2019.01.22-04.33.38:308][ 16]LogNet: Client netspeed is 10000
+[2019.01.22-04.33.38:310][ 16]LogNet: Login request: /Game/2DSideScrollerBP/Maps/MainMenu?Name=DESKTOP-RI1ETNT-9FE5507541EC7306E6E0D3BFFB8F48D4 userId: DESKTOP-RI1ETNT-9FE5507541EC7306E6E0D3BFFB8F48D4
+[2019.01.22-04.33.38:311][ 16]LogNet: Login request: /Game/2DSideScrollerBP/Maps/MainMenu?Name=DESKTOP-RI1ETNT-291172C3460387B110FE809EFB29546F userId: DESKTOP-RI1ETNT-291172C3460387B110FE809EFB29546F
+[2019.01.22-04.33.38:325][ 17]LogNet: Client netspeed is 10000
+[2019.01.22-04.33.38:394][ 19]LogNet: Join request: /Game/2DSideScrollerBP/Maps/MainMenu?Name=DESKTOP-RI1ETNT-9239383841E3B81E9C2C5B9693F6816D?SplitscreenCount=1
+[2019.01.22-04.33.38:399][ 19]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2019.01.22-04.33.38:414][ 19]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.01.22-04.33.38:416][ 19]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.22-04.33.38:417][ 19]LogNet: Join succeeded: DESKTOP-RI1ETNT-9239
+[2019.01.22-04.33.38:419][ 19]LogNet: Join request: /Game/2DSideScrollerBP/Maps/MainMenu?Name=DESKTOP-RI1ETNT-9FE5507541EC7306E6E0D3BFFB8F48D4?SplitscreenCount=1
+[2019.01.22-04.33.38:420][ 19]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2019.01.22-04.33.38:425][ 19]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.01.22-04.33.38:428][ 19]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.22-04.33.38:429][ 19]LogNet: Join succeeded: DESKTOP-RI1ETNT-9FE5
+[2019.01.22-04.33.38:533][ 23]LogNet: Join request: /Game/2DSideScrollerBP/Maps/MainMenu?Name=DESKTOP-RI1ETNT-3D84DED0408D5A1C6664949C504D17A1?SplitscreenCount=1
+[2019.01.22-04.33.38:534][ 23]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2019.01.22-04.33.38:537][ 23]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.01.22-04.33.38:538][ 23]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.22-04.33.38:539][ 23]LogNet: Join succeeded: DESKTOP-RI1ETNT-3D84
+[2019.01.22-04.33.38:996][ 37]LogNet: Client netspeed is 10000
+[2019.01.22-04.33.39:000][ 37]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52680
+[2019.01.22-04.33.39:014][ 37]LogHandshake: SendConnectChallenge. Timestamp: 1.381977, Cookie: 249004057161166079164142177153167241032090112145033081176186
+[2019.01.22-04.33.39:063][ 39]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52680
+[2019.01.22-04.33.39:069][ 39]LogHandshake: SendChallengeAck. InCookie: 249004057161166079164142177153167241032090112145033081176186
+[2019.01.22-04.33.39:075][ 39]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52680
+[2019.01.22-04.33.39:078][ 39]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.01.22-04.33.39:078][ 39]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 01/21/19 23:33:39, [UNetConnection] RemoteAddr: 127.0.0.1:52680, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.22-04.33.39:080][ 39]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52680, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.22-04.33.39:097][ 40]LogNet: NotifyAcceptingChannel Control 0 server World /Game/2DSideScrollerBP/Maps/MainMenu.MainMenu: Accepted
+[2019.01.22-04.33.39:097][ 40]LogNet: Remote platform little endian=1
+[2019.01.22-04.33.39:099][ 40]LogNet: This platform little endian=1
+[2019.01.22-04.33.39:130][ 41]LogNet: Login request: /Game/2DSideScrollerBP/Maps/MainMenu?Name=DESKTOP-RI1ETNT-618D68C44C90B4AFE3D6D6A5DC3FE87E userId: DESKTOP-RI1ETNT-618D68C44C90B4AFE3D6D6A5DC3FE87E
+[2019.01.22-04.33.39:168][ 42]LogNet: Client netspeed is 10000
+[2019.01.22-04.33.39:231][ 44]LogNet: Join request: /Game/2DSideScrollerBP/Maps/MainMenu?Name=DESKTOP-RI1ETNT-291172C3460387B110FE809EFB29546F?SplitscreenCount=1
+[2019.01.22-04.33.39:253][ 44]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2019.01.22-04.33.39:277][ 44]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.01.22-04.33.39:282][ 44]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.22-04.33.39:285][ 44]LogNet: Join succeeded: DESKTOP-RI1ETNT-2911
+[2019.01.22-04.33.39:321][ 46]LogNet: Join request: /Game/2DSideScrollerBP/Maps/MainMenu?Name=DESKTOP-RI1ETNT-618D68C44C90B4AFE3D6D6A5DC3FE87E?SplitscreenCount=1
+[2019.01.22-04.33.39:321][ 46]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2019.01.22-04.33.39:326][ 46]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.01.22-04.33.39:328][ 46]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.22-04.33.39:329][ 46]LogNet: Join succeeded: DESKTOP-RI1ETNT-618D
+[2019.01.22-04.35.04:475][595]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2019.01.22-04.35.04:475][595]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52681, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MouseAndMove_C_0, Owner: MouseAndMove_C_0, UniqueId: NULL:DESKTOP-RI1ETNT-4D8BF4424B323F0CD186C384C94933B3
+[2019.01.22-04.35.04:476][595]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52681, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MouseAndMove_C_0, Owner: MouseAndMove_C_0, UniqueId: NULL:DESKTOP-RI1ETNT-4D8BF4424B323F0CD186C384C94933B3, Channels: 13, Time: 2019.01.22-04.35.04
+[2019.01.22-04.35.04:477][595]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52681, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MouseAndMove_C_0, Owner: MouseAndMove_C_0, UniqueId: NULL:DESKTOP-RI1ETNT-4D8BF4424B323F0CD186C384C94933B3
+[2019.01.22-04.35.04:479][595]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2019.01.22-04.36.13:157][655]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2019.01.22-04.36.13:157][655]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52682, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MouseAndMove_C_2, Owner: MouseAndMove_C_2, UniqueId: NULL:DESKTOP-RI1ETNT-9FE5507541EC7306E6E0D3BFFB8F48D4
+[2019.01.22-04.36.13:158][655]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52682, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MouseAndMove_C_2, Owner: MouseAndMove_C_2, UniqueId: NULL:DESKTOP-RI1ETNT-9FE5507541EC7306E6E0D3BFFB8F48D4, Channels: 12, Time: 2019.01.22-04.36.13
+[2019.01.22-04.36.13:159][655]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52682, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MouseAndMove_C_2, Owner: MouseAndMove_C_2, UniqueId: NULL:DESKTOP-RI1ETNT-9FE5507541EC7306E6E0D3BFFB8F48D4
+[2019.01.22-04.36.13:161][655]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2019.01.22-04.36.33:230][254]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2019.01.22-04.36.33:230][254]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52679, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MouseAndMove_C_1, Owner: MouseAndMove_C_1, UniqueId: NULL:DESKTOP-RI1ETNT-9239383841E3B81E9C2C5B9693F6816D
+[2019.01.22-04.36.33:231][254]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52679, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MouseAndMove_C_1, Owner: MouseAndMove_C_1, UniqueId: NULL:DESKTOP-RI1ETNT-9239383841E3B81E9C2C5B9693F6816D, Channels: 11, Time: 2019.01.22-04.36.33
+[2019.01.22-04.36.33:231][254]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52679, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MouseAndMove_C_1, Owner: MouseAndMove_C_1, UniqueId: NULL:DESKTOP-RI1ETNT-9239383841E3B81E9C2C5B9693F6816D
+[2019.01.22-04.36.33:235][254]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
