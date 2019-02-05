@@ -1,0 +1,388 @@
+﻿Log file open, 02/04/19 20:39:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TrenchTowers
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.572997
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.083s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  127.0.0.1:7777 -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed GameUserSettingsINI="D:/Program Files (x86)/TrenchTowers 4.20/Saved/Config/Windows/PIEGameUserSettings1.ini" -MultiprocessSaveConfig  -MultiprocessOSS WinX=5 WinY=5 SAVEWINPOS=1
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.05-01.39.20:731][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.05-01.39.20:731][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.05-01.39.20:758][  0]LogHAL: Display: Platform has ~ 16 GB [17044942848 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.05-01.39.20:758][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.02.05-01.39.20:758][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.05-01.39.20:758][  0]LogInit: Computer: DESKTOP-RI1ETNT
+[2019.02.05-01.39.20:758][  0]LogInit: User: Fires
+[2019.02.05-01.39.20:758][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.05-01.39.20:758][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.02.05-01.39.20:759][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.05-01.39.20:759][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.05-01.39.20:759][  0]LogMemory: Process Physical Memory: 107.60 MB used, 107.60 MB peak
+[2019.02.05-01.39.20:759][  0]LogMemory: Process Virtual Memory: 93.51 MB used, 93.51 MB peak
+[2019.02.05-01.39.20:759][  0]LogMemory: Physical Memory: 7846.36 MB used,  8408.96 MB free, 16255.32 MB total
+[2019.02.05-01.39.20:759][  0]LogMemory: Virtual Memory: 4646.39 MB used,  8408.96 MB free, 134217728.00 MB total
+[2019.02.05-01.39.21:251][  0]LogInit: Using OS detected language (en-US).
+[2019.02.05-01.39.21:251][  0]LogInit: Using OS detected locale (en-CA).
+[2019.02.05-01.39.21:254][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.05-01.39.21:755][  0]LogStreaming: Display: Took  0.504s to InitEngineTextLocalization.
+[2019.02.05-01.39.21:818][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.05-01.39.21:819][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.05-01.39.21:871][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.05-01.39.21:871][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.05-01.39.21:992][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.02.05-01.39.21:992][  0]LogD3D11RHI:       8081/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.05-01.39.22:012][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.02.05-01.39.22:012][  0]LogD3D11RHI:       128/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.05-01.39.22:016][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.05-01.39.22:016][  0]LogD3D11RHI:       0/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.05-01.39.22:016][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.05-01.39.22:064][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.05-01.39.22:064][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.05-01.39.22:064][  0]LogWindows: EnumDisplayDevices:
+[2019.02.05-01.39.22:065][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.02.05-01.39.22:065][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.02.05-01.39.22:066][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.02.05-01.39.22:066][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.05-01.39.22:067][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.05-01.39.22:067][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.05-01.39.22:068][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.05-01.39.22:069][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.02.05-01.39.22:069][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.02.05-01.39.22:069][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2019.02.05-01.39.22:069][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2019.02.05-01.39.22:069][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.02.05-01.39.22:131][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2019.02.05-01.39.22:131][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.05-01.39.22:152][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.05-01.39.22:154][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Program Files (x86)/TrenchTowers 4.20/Intermediate/Shaders/WorkingDirectory/19144/).
+[2019.02.05-01.39.22:155][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Fires/AppData/Local/Temp/UnrealShaderWorkingDir/F0FD52F648C36D312C65AE9D84A87695/'.
+[2019.02.05-01.39.22:682][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.05-01.39.22:712][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.05-01.39.22:738][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.05-01.39.22:763][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.05-01.39.22:763][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.05-01.39.22:953][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.05-01.39.22:953][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.05-01.39.22:953][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.05-01.39.23:979][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.05-01.39.24:055][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Fires/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.05-01.39.24:055][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Fires/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.02.05-01.39.24:055][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Program Files (x86)/TrenchTowers 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.05-01.39.24:055][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.05-01.39.24:056][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Program Files (x86)/TrenchTowers 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.05-01.39.24:056][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.05-01.39.24:075][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.05-01.39.24:090][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Fires/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.05-01.39.24:090][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.05-01.39.24:090][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.05-01.39.24:116][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.05-01.39.24:118][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.05-01.39.24:120][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.05-01.39.24:279][  0]LogInit: Using OS detected language (en-US).
+[2019.02.05-01.39.24:279][  0]LogInit: Using OS detected locale (en-CA).
+[2019.02.05-01.39.24:279][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2019.02.05-01.39.24:279][  0]LogTextLocalizationManager: No localization for 'en-CA' exists, so 'en' will be used for the locale.
+[2019.02.05-01.39.24:701][  0]LogStreaming: Display: Took  0.423s to InitGameTextLocalization.
+[2019.02.05-01.39.24:717][  0]LogAssetRegistry: FAssetRegistry took 0.0065 seconds to start up
+[2019.02.05-01.39.25:033][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.028254 seconds
+[2019.02.05-01.39.27:029][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.05-01.39.27:260][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.05-01.39.27:275][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.05-01.39.27:275][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.05-01.39.27:275][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.05-01.39.27:275][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.05-01.39.27:294][  0]LogNetVersion: TrenchTowers 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1537713906)
+[2019.02.05-01.39.28:252][  0]LogMoviePlayer: Initializing movie player
+[2019.02.05-01.39.28:534][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.05-01.39.28:548][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.05-01.39.28:671][  0]SourceControl: Source control is disabled
+[2019.02.05-01.39.28:671][  0]SourceControl: Source control is disabled
+[2019.02.05-01.39.28:675][  0]SourceControl: Source control is disabled
+[2019.02.05-01.39.28:925][  0]LogOnline: Display: STEAM: Loading Steam SDK 1.39
+[2019.02.05-01.39.28:931][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.05-01.39.29:104][  0]LogOcInput: OculusInput pre-init called
+[2019.02.05-01.39.29:126][  0]LogUObjectArray: 42395 objects as part of root set at end of initial load.
+[2019.02.05-01.39.29:126][  0]LogUObjectAllocator: 7491248 out of 0 bytes used by permanent object pool.
+[2019.02.05-01.39.29:126][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.05-01.39.29:214][  0]LogEngine: Initializing Engine...
+[2019.02.05-01.39.29:216][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.05-01.39.29:233][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.05-01.39.29:233][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.05-01.39.29:480][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.05-01.39.29:530][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.05-01.39.29:692][  0]LogInit: FAudioDevice initialized.
+[2019.02.05-01.39.29:704][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.05-01.39.29:705][  0]LogInit: Texture streaming: Enabled
+[2019.02.05-01.39.30:116][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-01.39.30:117][  0]LogInit: Display: Game Engine Initialized.
+[2019.02.05-01.39.30:117][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.05-01.39.30:117][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.05-01.39.30:117][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.05-01.39.30:159][  0]LogInit: Display: Starting Game.
+[2019.02.05-01.39.30:159][  0]LogNet: Browse: 127.0.0.1//Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap?Name=Player
+[2019.02.05-01.39.30:160][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.05-01.39.30:160][  0]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.02.05-01.39.30:160][  0]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.05-01.39.30:160][  0]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.05-01.39.30:165][  0]LogInit: WinSock: I am DESKTOP-RI1ETNT (192.168.1.115:0)
+[2019.02.05-01.39.30:166][  0]PacketHandlerLog: Loaded PacketHandler component: OnlineSubsystemSteam.SteamAuthComponentModuleInterface ()
+[2019.02.05-01.39.30:166][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.05-01.39.30:166][  0]LogOnline: Warning: STEAM: AUTH HANDLER: Deactivating due to missing requirements
+[2019.02.05-01.39.30:166][  0]LogNet: Game client on port 7777, rate 10000
+[2019.02.05-01.39.30:263][  0]LogLoad: (Engine Initialization) Total time: 16.97 seconds
+[2019.02.05-01.39.30:263][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.05-01.39.30:447][  0]LogSteamController: SteamController is not available
+[2019.02.05-01.39.30:447][  0]LogHandshake: SendChallengeResponse. Timestamp: 17.915260, Cookie: 040238227205101105092194230129072044004160014157051119045204
+[2019.02.05-01.39.30:451][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.05-01.39.30:458][  1]LogNetVersion: TrenchTowers 1.0.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2119075378)
+[2019.02.05-01.39.30:458][  1]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.05-01.39.30:490][  3]LogNet: Welcomed by server (Level: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap, Game: /Game/2DSideScrollerBP/Blueprints/Gameplay/2DSideScrollerGameMode.2DSideScrollerGameMode_C)
+[2019.02.05-01.39.30:492][  3]LogLoad: LoadMap: 127.0.0.1//Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap?Name=Player?game=/Game/2DSideScrollerBP/Blueprints/Gameplay/2DSideScrollerGameMode.2DSideScrollerGameMode_C
+[2019.02.05-01.39.30:608][  3]LogLinker: Warning: Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.30:608][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.30:608][  3]LogLinker: Warning: Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.30:608][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.30:608][  3]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.LevelBlueprintEditorOverview_C
+[2019.02.05-01.39.30:609][  3]LogLinker: Warning: Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.30:609][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.30:609][  3]LogLinker: Warning: Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.30:609][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.30:609][  3]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.LevelBlueprintEditorOverview_C
+[2019.02.05-01.39.30:609][  3]LogLinker: Warning: Unable to load Default__LevelBlueprintEditorOverview_C with outer Package /Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview because its class does not exist
+[2019.02.05-01.39.30:609][  3]LogLinker: Warning: Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.30:609][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.30:609][  3]LogLinker: Warning: Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.30:609][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.30:609][  3]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.LevelBlueprintEditorOverview_C
+[2019.02.05-01.39.30:613][  3]LogLinker: Warning: Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.30:613][  3]LoadErrors: Failed to load /Script/IntroTutorials.EditorTutorial Referenced by K2Node_DynamicCast_1
+[2019.02.05-01.39.30:613][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.30:613][  3]LogLinker: Warning: Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.30:613][  3]LoadErrors: Failed to load /Script/IntroTutorials.EditorTutorial Referenced by K2Node_DynamicCast_1
+[2019.02.05-01.39.30:613][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.30:613][  3]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.LevelBlueprintEditorOverview_C
+[2019.02.05-01.39.30:614][  3]LogLinker: Warning: Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.30:614][  3]LoadErrors: Failed to load /Script/IntroTutorials.EditorTutorial Referenced by K2Node_DynamicCast_1
+[2019.02.05-01.39.30:614][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.30:614][  3]LogLinker: Warning: Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.30:614][  3]LoadErrors: Failed to load /Script/IntroTutorials.EditorTutorial Referenced by K2Node_DynamicCast_1
+[2019.02.05-01.39.30:614][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.30:614][  3]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.LevelBlueprintEditorOverview_C
+[2019.02.05-01.39.31:677][  3]LogLinker: Warning: Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.31:677][  3]LoadErrors: Failed to load /Script/IntroTutorials.EditorTutorial Referenced by LevelBlueprintEditorOverview
+[2019.02.05-01.39.31:677][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.31:677][  3]LogLinker: Warning: Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.31:677][  3]LoadErrors: Failed to load /Script/IntroTutorials.EditorTutorial Referenced by LevelBlueprintEditorOverview
+[2019.02.05-01.39.31:677][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.31:677][  3]LogLinker: Warning: Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.31:677][  3]LoadErrors: Failed to load /Script/IntroTutorials.EditorTutorial Referenced by LevelBlueprintEditorOverview
+[2019.02.05-01.39.31:677][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.31:677][  3]LogLinker: Warning: Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.31:677][  3]LoadErrors: Failed to load /Script/IntroTutorials.EditorTutorial Referenced by LevelBlueprintEditorOverview
+[2019.02.05-01.39.31:677][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.31:678][  3]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.LevelBlueprintEditorOverview_C
+[2019.02.05-01.39.31:678][  3]LogLinker: Warning: Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.31:678][  3]LoadErrors: Failed to load /Script/IntroTutorials.EditorTutorial Referenced by PackageMetaData
+[2019.02.05-01.39.31:678][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file '/Script/IntroTutorials'
+[2019.02.05-01.39.31:678][  3]LogLinker: Warning: Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.31:678][  3]LoadErrors: Failed to load /Script/IntroTutorials.EditorTutorial Referenced by PackageMetaData
+[2019.02.05-01.39.31:678][  3]LogUObjectGlobals: Warning: Failed to load '/Script/IntroTutorials': Can't find file for asset '/Script/IntroTutorials' while loading NULL.
+[2019.02.05-01.39.31:678][  3]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.LevelBlueprintEditorOverview_C
+[2019.02.05-01.39.31:835][  3]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.02.05-01.39.31:836][  3]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.05-01.39.31:876][  3]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.02.04-20.39.31
+[2019.02.05-01.39.31:877][  3]LogWorld: Bringing up level for play took: 0.040206
+[2019.02.05-01.39.31:879][  3]LogLoad: Took 1.386962 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap)
+[2019.02.05-01.39.31:902][  4]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.02.05-01.39.31:931][  4]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2019.02.05-01.39.31:935][  4]LogBlueprintUserMessages: [Cube_Blueprint] land
+[2019.02.05-01.39.32:366][ 31]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.05-01.39.32:431][ 35]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.05-01.39.32:480][ 38]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:483][ 38]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:483][ 38]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:483][ 38]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:484][ 38]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:484][ 38]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:485][ 38]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:485][ 38]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:560][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:561][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:722][ 53]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:722][ 53]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:772][ 56]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:772][ 56]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:837][ 60]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:838][ 60]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:838][ 60]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:838][ 60]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:838][ 60]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:838][ 60]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.32:981][ 69]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.33:045][ 73]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.33:045][ 73]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.33:045][ 73]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.33:061][ 74]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.33:435][ 97]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.33:435][ 97]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.33:561][105]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.33:561][105]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.34:982][193]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.34:983][193]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.34:997][194]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.34:997][194]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.36:998][318]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.37:014][319]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.37:014][319]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.37:014][319]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.37:030][320]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.37:030][320]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.37:030][320]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.37:032][320]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.37:047][321]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.37:079][323]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.39:000][442]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.05-01.39.39:015][443]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
