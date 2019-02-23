@@ -1,0 +1,594 @@
+﻿Log file open, 02/22/19 10:58:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TrenchTowers
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.377810
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.104s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  127.0.0.1:7777 -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed GameUserSettingsINI="D:/Program Files (x86)/TrenchTowers 4.20/Saved/Config/Windows/PIEGameUserSettings1.ini" -MultiprocessSaveConfig  -MultiprocessOSS WinX=5 WinY=5 SAVEWINPOS=1
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.22-15.58.45:756][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.22-15.58.45:757][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.22-15.58.45:787][  0]LogHAL: Display: Platform has ~ 16 GB [17044942848 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.22-15.58.45:787][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.02.22-15.58.45:787][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.22-15.58.45:788][  0]LogInit: Computer: DESKTOP-RI1ETNT
+[2019.02.22-15.58.45:788][  0]LogInit: User: Fires
+[2019.02.22-15.58.45:788][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.22-15.58.45:788][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.02.22-15.58.45:788][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.22-15.58.45:788][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.22-15.58.45:788][  0]LogMemory: Process Physical Memory: 107.96 MB used, 107.97 MB peak
+[2019.02.22-15.58.45:788][  0]LogMemory: Process Virtual Memory: 93.57 MB used, 93.57 MB peak
+[2019.02.22-15.58.45:788][  0]LogMemory: Physical Memory: 8108.58 MB used,  8146.75 MB free, 16255.32 MB total
+[2019.02.22-15.58.45:788][  0]LogMemory: Virtual Memory: 4646.39 MB used,  8146.75 MB free, 134217728.00 MB total
+[2019.02.22-15.58.46:627][  0]LogInit: Using OS detected language (en-US).
+[2019.02.22-15.58.46:627][  0]LogInit: Using OS detected locale (en-CA).
+[2019.02.22-15.58.46:631][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.22-15.58.47:136][  0]LogStreaming: Display: Took  0.509s to InitEngineTextLocalization.
+[2019.02.22-15.58.47:256][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.22-15.58.47:256][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.22-15.58.47:313][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.22-15.58.47:313][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.22-15.58.47:412][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.02.22-15.58.47:412][  0]LogD3D11RHI:       8081/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.22-15.58.47:427][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.02.22-15.58.47:427][  0]LogD3D11RHI:       128/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.22-15.58.47:432][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.22-15.58.47:432][  0]LogD3D11RHI:       0/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.22-15.58.47:432][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.22-15.58.47:489][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.22-15.58.47:489][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.22-15.58.47:489][  0]LogWindows: EnumDisplayDevices:
+[2019.02.22-15.58.47:490][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.02.22-15.58.47:490][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.02.22-15.58.47:491][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.02.22-15.58.47:492][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.22-15.58.47:493][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.22-15.58.47:493][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.22-15.58.47:494][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.22-15.58.47:494][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.02.22-15.58.47:494][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.02.22-15.58.47:494][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2019.02.22-15.58.47:494][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2019.02.22-15.58.47:494][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.02.22-15.58.47:561][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2019.02.22-15.58.47:561][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.22-15.58.47:584][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.22-15.58.47:586][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Program Files (x86)/TrenchTowers 4.20/Intermediate/Shaders/WorkingDirectory/27496/).
+[2019.02.22-15.58.47:587][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Fires/AppData/Local/Temp/UnrealShaderWorkingDir/6F924AB44DF4B458DE2E2F999EB06C29/'.
+[2019.02.22-15.58.48:145][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.22-15.58.48:169][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.22-15.58.48:196][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.22-15.58.48:231][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.22-15.58.48:231][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.22-15.58.48:408][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.22-15.58.48:408][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.22-15.58.48:408][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.22-15.58.49:450][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.22-15.58.49:522][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Fires/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.22-15.58.49:522][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Fires/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.02.22-15.58.49:522][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Program Files (x86)/TrenchTowers 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.22-15.58.49:522][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.22-15.58.49:522][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Program Files (x86)/TrenchTowers 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.22-15.58.49:522][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.22-15.58.49:540][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.22-15.58.49:554][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Fires/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.22-15.58.49:554][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.22-15.58.49:554][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.22-15.58.49:579][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.22-15.58.49:581][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.22-15.58.49:583][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.22-15.58.49:745][  0]LogInit: Using OS detected language (en-US).
+[2019.02.22-15.58.49:745][  0]LogInit: Using OS detected locale (en-CA).
+[2019.02.22-15.58.49:745][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2019.02.22-15.58.49:745][  0]LogTextLocalizationManager: No localization for 'en-CA' exists, so 'en' will be used for the locale.
+[2019.02.22-15.58.50:151][  0]LogStreaming: Display: Took  0.406s to InitGameTextLocalization.
+[2019.02.22-15.58.50:168][  0]LogAssetRegistry: FAssetRegistry took 0.0067 seconds to start up
+[2019.02.22-15.58.50:463][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.028060 seconds
+[2019.02.22-15.58.52:303][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.22-15.58.52:512][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.22-15.58.52:525][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.22-15.58.52:525][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.22-15.58.52:525][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.22-15.58.52:525][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.22-15.58.52:545][  0]LogNetVersion: TrenchTowers 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1537713906)
+[2019.02.22-15.58.53:398][  0]LogMoviePlayer: Initializing movie player
+[2019.02.22-15.58.53:681][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.22-15.58.53:696][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.22-15.58.53:820][  0]SourceControl: Source control is disabled
+[2019.02.22-15.58.53:820][  0]SourceControl: Source control is disabled
+[2019.02.22-15.58.53:824][  0]SourceControl: Source control is disabled
+[2019.02.22-15.58.54:065][  0]LogOnline: Display: STEAM: Loading Steam SDK 1.39
+[2019.02.22-15.58.54:070][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.22-15.58.54:248][  0]LogOcInput: OculusInput pre-init called
+[2019.02.22-15.58.54:269][  0]LogUObjectArray: 42395 objects as part of root set at end of initial load.
+[2019.02.22-15.58.54:269][  0]LogUObjectAllocator: 7491240 out of 0 bytes used by permanent object pool.
+[2019.02.22-15.58.54:269][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.22-15.58.54:362][  0]LogEngine: Initializing Engine...
+[2019.02.22-15.58.54:364][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.22-15.58.54:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.22-15.58.54:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.22-15.58.54:616][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.22-15.58.54:666][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.22-15.58.54:816][  0]LogInit: FAudioDevice initialized.
+[2019.02.22-15.58.54:828][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.22-15.58.54:828][  0]LogInit: Texture streaming: Enabled
+[2019.02.22-15.58.55:209][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-15.58.55:210][  0]LogInit: Display: Game Engine Initialized.
+[2019.02.22-15.58.55:210][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.22-15.58.55:211][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.22-15.58.55:211][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.22-15.58.55:248][  0]LogInit: Display: Starting Game.
+[2019.02.22-15.58.55:248][  0]LogNet: Browse: 127.0.0.1//Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap?Name=Player
+[2019.02.22-15.58.55:248][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.22-15.58.55:248][  0]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.02.22-15.58.55:249][  0]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.22-15.58.55:249][  0]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.22-15.58.55:255][  0]LogInit: WinSock: I am DESKTOP-RI1ETNT (192.168.0.16:0)
+[2019.02.22-15.58.55:256][  0]PacketHandlerLog: Loaded PacketHandler component: OnlineSubsystemSteam.SteamAuthComponentModuleInterface ()
+[2019.02.22-15.58.55:256][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.22-15.58.55:256][  0]LogOnline: Warning: STEAM: AUTH HANDLER: Deactivating due to missing requirements
+[2019.02.22-15.58.55:256][  0]LogNet: Game client on port 7777, rate 10000
+[2019.02.22-15.58.55:354][  0]LogLoad: (Engine Initialization) Total time: 16.85 seconds
+[2019.02.22-15.58.55:354][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.22-15.58.55:588][  0]LogSteamController: SteamController is not available
+[2019.02.22-15.58.55:589][  0]LogHandshake: SendChallengeResponse. Timestamp: 17.229450, Cookie: 050106048039146209219141250183170185198132161240030135008206
+[2019.02.22-15.58.55:593][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.22-15.58.55:604][  1]LogNetVersion: TrenchTowers 1.0.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2119075378)
+[2019.02.22-15.58.55:604][  1]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.22-15.58.55:633][  3]LogNet: Welcomed by server (Level: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap, Game: /Game/2DSideScrollerBP/Blueprints/Gameplay/2DSideScrollerGameMode.2DSideScrollerGameMode_C)
+[2019.02.22-15.58.55:635][  3]LogLoad: LoadMap: 127.0.0.1//Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap?Name=Player?game=/Game/2DSideScrollerBP/Blueprints/Gameplay/2DSideScrollerGameMode.2DSideScrollerGameMode_C
+[2019.02.22-15.58.56:805][  3]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.02.22-15.58.56:805][  3]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.22-15.58.56:834][  3]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.02.22-10.58.56
+[2019.02.22-15.58.56:836][  3]LogWorld: Bringing up level for play took: 0.030686
+[2019.02.22-15.58.56:838][  3]LogLoad: Took 1.203339 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap)
+[2019.02.22-15.58.56:858][  4]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.02.22-15.58.56:892][  4]LogPlayerController: Error: EnableInput can only be specified on a PlayerController for itself
+[2019.02.22-15.58.56:896][  4]LogBlueprintUserMessages: [Cube_Blueprint] land
+[2019.02.22-15.58.57:539][ 44]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.57:543][ 44]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.57:543][ 44]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.57:543][ 44]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.57:543][ 44]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.57:543][ 44]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.57:543][ 44]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.57:544][ 44]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.57:544][ 44]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.57:570][ 46]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.22-15.58.57:717][ 55]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.57:717][ 55]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.57:846][ 63]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.57:846][ 63]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.57:860][ 64]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.02.22-15.58.57:991][ 72]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.57:991][ 72]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:023][ 74]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:023][ 74]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:089][ 78]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:089][ 78]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:089][ 78]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:089][ 78]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:089][ 78]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:089][ 78]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:121][ 80]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:121][ 80]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:201][ 85]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:232][ 87]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:234][ 87]LogBlueprintUserMessages: [Cube_Blueprint] land
+[2019.02.22-15.58.58:297][ 91]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:297][ 91]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:297][ 91]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.58.58:348][ 94]LogBlueprintUserMessages: [Cube_Blueprint] takeoff
+[2019.02.22-15.58.58:684][115]LogBlueprintUserMessages: [Cube_Blueprint] land
+[2019.02.22-15.59.00:217][210]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.00:217][210]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.00:219][210]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.00:219][210]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.02:202][333]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.02:202][333]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.02:202][333]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.02:219][334]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.02:222][334]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.02:249][336]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.02:266][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.02:266][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.02:266][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.02:267][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.04:444][472]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.04:444][472]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.04:444][472]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.04:444][472]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.04:447][472]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.04:448][472]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.05:431][533]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.05:431][533]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.05:431][533]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.05:431][533]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.05:497][537]LogBlueprintUserMessages: [PBullet_C_2] Brute2_ATK14
+[2019.02.22-15.59.06:455][596]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.06:458][596]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.06:580][604]LogBlueprintUserMessages: [PBullet_C_4] Brute2_ATK21
+[2019.02.22-15.59.06:786][617]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.06:787][617]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.06:787][617]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.06:787][617]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.06:984][629]LogBlueprintUserMessages: [PBullet_C_6] Minion2_ATK84
+[2019.02.22-15.59.07:790][679]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.07:790][679]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.07:790][679]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.07:791][679]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.08:459][720]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.08:459][720]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.08:461][720]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.08:461][720]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.08:791][741]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.08:792][741]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.08:792][741]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.08:792][741]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.08:973][752]LogBlueprintUserMessages: [PBullet_C_8] Minion3_ATK117
+[2019.02.22-15.59.09:810][804]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.09:810][804]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.09:810][804]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.09:810][804]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.10:816][866]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.10:816][866]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.10:817][866]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.10:817][866]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.11:803][927]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.11:803][927]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.12:141][948]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.12:486][969]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.12:488][969]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.12:819][990]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.12:819][990]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.13:141][ 10]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.13:819][ 52]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.13:819][ 52]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.14:141][ 72]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.14:500][ 94]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.14:501][ 94]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.14:819][114]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.14:820][114]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.15:142][134]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.15:835][177]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.15:835][177]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.16:158][197]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.16:503][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.16:503][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.16:506][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.16:506][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.16:836][239]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.16:836][239]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.17:158][259]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.17:836][301]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.17:836][301]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.18:175][322]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.18:852][364]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.18:852][364]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.19:176][384]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.19:853][426]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.19:853][426]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.20:175][446]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.20:535][468]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.20:540][468]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.20:856][488]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.20:856][488]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.21:067][501]LogBlueprintUserMessages: [TowerShot_C_142] Minion225
+[2019.02.22-15.59.21:099][503]LogBlueprintUserMessages: [TowerShot_C_141] Minion130
+[2019.02.22-15.59.21:146][506]LogBlueprintUserMessages: [TowerShot_C_145] Minion325
+[2019.02.22-15.59.21:147][506]LogBlueprintUserMessages: [TowerShot_C_145] Minion225
+[2019.02.22-15.59.21:163][507]LogBlueprintUserMessages: [TowerShot_C_145] Minion211
+[2019.02.22-15.59.21:164][507]LogBlueprintUserMessages: [TowerShot_C_144] Minion130
+[2019.02.22-15.59.21:164][507]LogBlueprintUserMessages: [TowerShot_C_145] Minion132
+[2019.02.22-15.59.21:180][508]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.21:856][550]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.21:856][550]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.21:858][550]LogBlueprintUserMessages: [TowerShot_C_151] Minion2_ATK264
+[2019.02.22-15.59.22:083][564]LogBlueprintUserMessages: [TowerShot_C_150] Brute34
+[2019.02.22-15.59.22:115][566]LogBlueprintUserMessages: [TowerShot_C_153] Minion325
+[2019.02.22-15.59.22:115][566]LogBlueprintUserMessages: [TowerShot_C_153] Minion225
+[2019.02.22-15.59.22:148][568]LogBlueprintUserMessages: [TowerShot_C_153] Minion211
+[2019.02.22-15.59.22:195][571]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.22:539][592]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.22:542][592]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.23:004][621]LogBlueprintUserMessages: [TowerShot_C_160] Minion325
+[2019.02.22-15.59.23:084][626]LogBlueprintUserMessages: [TowerShot_C_159] Minion38
+[2019.02.22-15.59.23:133][629]LogBlueprintUserMessages: [TowerShot_C_162] Minion325
+[2019.02.22-15.59.23:133][629]LogBlueprintUserMessages: [TowerShot_C_162] Minion225
+[2019.02.22-15.59.23:165][631]LogBlueprintUserMessages: [TowerShot_C_162] Minion211
+[2019.02.22-15.59.23:181][632]LogBlueprintUserMessages: [TowerShot_C_163] Minion236
+[2019.02.22-15.59.23:181][632]LogBlueprintUserMessages: [TowerShot_C_162] Minion238
+[2019.02.22-15.59.23:212][634]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.23:489][651]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.23:489][651]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.23:489][651]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.23:489][651]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.23:810][671]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.23:810][671]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.23:810][671]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.23:810][671]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.23:810][671]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.23:810][671]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.23:889][676]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.24:053][686]LogBlueprintUserMessages: [TowerShot_C_168] Minion236
+[2019.02.22-15.59.24:197][695]LogBlueprintUserMessages: [TowerShot_C_171] Minion236
+[2019.02.22-15.59.24:212][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.24:212][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.24:294][701]LogBlueprintUserMessages: [TowerShot_C_170] Minion325
+[2019.02.22-15.59.24:392][707]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:392][707]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:392][707]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:392][707]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:423][709]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:423][709]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:441][710]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:441][710]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:454][711]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:454][711]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:471][712]LogBlueprintUserMessages: [TowerShot_C_175] Minion325
+[2019.02.22-15.59.24:471][712]LogBlueprintUserMessages: [TowerShot_C_175] Minion225
+[2019.02.22-15.59.24:487][713]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:487][713]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:487][713]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:487][713]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:487][713]LogBlueprintUserMessages: [TowerShot_C_175] Minion211
+[2019.02.22-15.59.24:487][713]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:487][713]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:487][713]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:487][713]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:487][713]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:487][713]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:503][714]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:503][714]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:504][714]LogBlueprintUserMessages: [TowerShot_C_175] Minion238
+[2019.02.22-15.59.24:557][717]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.24:557][717]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.24:560][717]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.24:561][717]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.24:811][733]LogBlueprintUserMessages: [TowerShot_C_176] Minion325
+[2019.02.22-15.59.24:827][734]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:827][734]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:827][734]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:827][734]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:827][734]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:827][734]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:827][734]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:827][734]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:827][734]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:827][734]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:827][734]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.24:827][734]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.24:842][735]LogBlueprintUserMessages: [TowerShot_C_178] Minion236
+[2019.02.22-15.59.24:890][738]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.24:890][738]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.24:901][738]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.25:056][748]LogBlueprintUserMessages: [TowerShot_C_177] Minion236
+[2019.02.22-15.59.25:216][758]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.25:216][758]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.25:396][769]LogScript: Warning: Script Msg: Attempted to access index 25 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.25:396][769]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.25:396][769]LogScript: Warning: Script Msg: Attempted to access index 26 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.25:396][769]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.25:428][771]LogScript: Warning: Script Msg: Attempted to access index 27 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.25:428][771]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.25:444][772]LogScript: Warning: Script Msg: Attempted to access index 28 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.25:444][772]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.25:492][775]LogScript: Warning: Script Msg: Attempted to access index 29 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.25:492][775]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.25:492][775]LogScript: Warning: Script Msg: Attempted to access index 30 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.25:492][775]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.25:492][775]LogScript: Warning: Script Msg: Attempted to access index 31 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.25:492][775]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.25:492][775]LogScript: Warning: Script Msg: Attempted to access index 32 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.25:492][775]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.25:493][775]LogScript: Warning: Script Msg: Attempted to access index 33 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.25:493][775]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.25:493][775]LogScript: Warning: Script Msg: Attempted to access index 34 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.25:493][775]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.25:799][794]LogBlueprintUserMessages: [TowerShot_C_189] Minion325
+[2019.02.22-15.59.25:832][796]LogBlueprintUserMessages: [TowerShot_C_192] Minion325
+[2019.02.22-15.59.25:832][796]LogBlueprintUserMessages: [TowerShot_C_192] Minion225
+[2019.02.22-15.59.25:847][797]LogBlueprintUserMessages: [TowerShot_C_192] Minion211
+[2019.02.22-15.59.25:865][798]LogBlueprintUserMessages: [TowerShot_C_192] Minion340
+[2019.02.22-15.59.25:865][798]LogBlueprintUserMessages: [TowerShot_C_192] Minion238
+[2019.02.22-15.59.25:895][800]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.25:906][800]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.26:204][819]LogBlueprintUserMessages: [TowerShot_C_195] Minion236
+[2019.02.22-15.59.26:235][821]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.26:235][821]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.26:430][833]LogScript: Warning: Script Msg: Attempted to access index 35 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.26:430][833]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.26:430][833]LogScript: Warning: Script Msg: Attempted to access index 36 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.26:430][833]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.26:445][834]LogScript: Warning: Script Msg: Attempted to access index 37 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.26:445][834]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.26:462][835]LogScript: Warning: Script Msg: Attempted to access index 38 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.26:462][835]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.26:462][835]LogScript: Warning: Script Msg: Attempted to access index 39 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.26:462][835]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.26:510][838]LogScript: Warning: Script Msg: Attempted to access index 40 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.26:510][838]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.26:510][838]LogScript: Warning: Script Msg: Attempted to access index 41 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.26:510][838]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.26:510][838]LogScript: Warning: Script Msg: Attempted to access index 42 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.26:510][838]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.26:511][838]LogScript: Warning: Script Msg: Attempted to access index 43 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.26:511][838]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.26:511][838]LogScript: Warning: Script Msg: Attempted to access index 44 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.26:511][838]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.26:511][838]LogScript: Warning: Script Msg: Attempted to access index 45 from array 'Boss' of length 3 in '/Game/2DSideScrollerBP/Blueprints/Minions/TroopSpawner.TroopSpawner_C'!
+[2019.02.22-15.59.26:511][838]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.22-15.59.26:573][842]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.26:577][842]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.26:802][856]LogBlueprintUserMessages: [TowerShot_C_203] Minion325
+[2019.02.22-15.59.26:913][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.27:205][881]LogBlueprintUserMessages: [TowerShot_C_204] Minion236
+[2019.02.22-15.59.27:235][883]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.27:235][883]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.27:382][892]LogBlueprintUserMessages: [TowerShot_C_212] Minion225
+[2019.02.22-15.59.27:397][893]LogBlueprintUserMessages: [TowerShot_C_214] Minion225
+[2019.02.22-15.59.27:397][893]LogBlueprintUserMessages: [TowerShot_C_214] Minion325
+[2019.02.22-15.59.27:414][894]LogBlueprintUserMessages: [TowerShot_C_214] Minion211
+[2019.02.22-15.59.27:430][895]LogBlueprintUserMessages: [TowerShot_C_214] Minion340
+[2019.02.22-15.59.27:430][895]LogBlueprintUserMessages: [TowerShot_C_214] Minion238
+[2019.02.22-15.59.27:461][897]LogBlueprintUserMessages: [TowerShot_C_214] Brute21
+[2019.02.22-15.59.27:461][897]LogBlueprintUserMessages: [TowerShot_C_214] Minion24
+[2019.02.22-15.59.27:462][897]LogBlueprintUserMessages: [TowerShot_C_214] Brute11
+[2019.02.22-15.59.27:462][897]LogBlueprintUserMessages: [TowerShot_C_214] Minion32
+[2019.02.22-15.59.27:462][897]LogBlueprintUserMessages: [TowerShot_C_214] Minion37
+[2019.02.22-15.59.27:462][897]LogBlueprintUserMessages: [TowerShot_C_214] Brute3
+[2019.02.22-15.59.27:573][904]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.27:850][921]LogBlueprintUserMessages: [TowerShot_C_211] Minion325
+[2019.02.22-15.59.27:850][921]LogBlueprintUserMessages: [TowerShot_C_211] Minion225
+[2019.02.22-15.59.27:866][922]LogBlueprintUserMessages: [TowerShot_C_211] Minion340
+[2019.02.22-15.59.27:866][922]LogBlueprintUserMessages: [TowerShot_C_211] Minion211
+[2019.02.22-15.59.27:881][923]LogBlueprintUserMessages: [TowerShot_C_211] Minion238
+[2019.02.22-15.59.27:899][924]LogBlueprintUserMessages: [TowerShot_C_211] Brute11
+[2019.02.22-15.59.27:899][924]LogBlueprintUserMessages: [TowerShot_C_211] Minion37
+[2019.02.22-15.59.27:913][925]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.28:253][946]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.22-15.59.28:253][946]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!

@@ -1,0 +1,389 @@
+﻿Log file open, 02/11/19 18:04:49
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.051s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:36:23
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  /Game/2DSideScrollerBP/Maps/MainMenu -stdout -abslog="C:\Users\Fires\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Program+Files+Epic+Games+UE_4.20\Client.log" -Messaging -Windowed -CrashForUAT -SessionId=44298F28420497BDEAD514BC32A70A20 -SessionOwner="Fires" -SessionName="Launch On Device"  
+LogInit: Base Directory: D:/Program Files (x86)/TrenchTowers 4.20/Saved/StagedBuilds/WindowsNoEditor/TrenchTowers/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+[2019.02.11-23.04.49:850][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2019.02.11-23.04.49:850][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2019.02.11-23.04.49:856][  0]LogHAL: Display: Platform has ~ 16 GB [17044942848 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.11-23.04.49:856][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2019.02.11-23.04.49:856][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.02.11-23.04.49:856][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.11-23.04.49:857][  0]LogInit: Computer: DESKTOP-RI1ETNT
+[2019.02.11-23.04.49:857][  0]LogInit: User: Fires
+[2019.02.11-23.04.49:857][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.11-23.04.49:857][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.02.11-23.04.49:857][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.11-23.04.49:857][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2019.02.11-23.04.49:857][  0]LogMemory: Process Physical Memory: 54.45 MB used, 54.45 MB peak
+[2019.02.11-23.04.49:857][  0]LogMemory: Process Virtual Memory: 64.20 MB used, 64.20 MB peak
+[2019.02.11-23.04.49:857][  0]LogMemory: Physical Memory: 7186.36 MB used,  9068.96 MB free, 16255.32 MB total
+[2019.02.11-23.04.49:857][  0]LogMemory: Virtual Memory: 4436.70 MB used,  9068.96 MB free, 134217728.00 MB total
+[2019.02.11-23.04.50:621][  0]LogInit: Using OS detected language (en-US).
+[2019.02.11-23.04.50:621][  0]LogInit: Using OS detected locale (en-CA).
+[2019.02.11-23.04.50:624][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.11-23.04.50:663][  0]LogStreaming: Display: Took  0.042s to InitEngineTextLocalization.
+[2019.02.11-23.04.50:707][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.11-23.04.50:708][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.11-23.04.50:726][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.11-23.04.50:726][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.11-23.04.50:839][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.02.11-23.04.50:839][  0]LogD3D11RHI:       8081/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.11-23.04.50:854][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.02.11-23.04.50:854][  0]LogD3D11RHI:       128/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.11-23.04.50:859][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.11-23.04.50:859][  0]LogD3D11RHI:       0/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.11-23.04.50:859][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.11-23.04.50:882][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.11-23.04.50:882][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.11-23.04.50:882][  0]LogWindows: EnumDisplayDevices:
+[2019.02.11-23.04.50:882][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.02.11-23.04.50:883][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.02.11-23.04.50:884][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.02.11-23.04.50:884][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.11-23.04.50:885][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.11-23.04.50:886][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.11-23.04.50:887][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.11-23.04.50:887][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.02.11-23.04.50:887][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.02.11-23.04.50:887][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2019.02.11-23.04.50:887][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2019.02.11-23.04.50:887][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.02.11-23.04.50:960][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2019.02.11-23.04.50:960][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.11-23.04.50:981][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.11-23.04.50:983][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global and no native library supported.
+[2019.02.11-23.04.50:983][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global_SC and no native library supported.
+[2019.02.11-23.04.50:983][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2019.02.11-23.04.50:983][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2019.02.11-23.04.50:983][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2019.02.11-23.04.50:984][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2019.02.11-23.04.50:984][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2019.02.11-23.04.50:984][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2019.02.11-23.04.50:984][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2019.02.11-23.04.50:984][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2019.02.11-23.04.50:984][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2019.02.11-23.04.50:984][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2019.02.11-23.04.50:984][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2019.02.11-23.04.50:984][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2019.02.11-23.04.50:985][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2019.02.11-23.04.50:985][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2019.02.11-23.04.50:985][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2019.02.11-23.04.50:985][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2019.02.11-23.04.50:985][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2019.02.11-23.04.50:985][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2019.02.11-23.04.50:985][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2019.02.11-23.04.50:986][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2019.02.11-23.04.50:986][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR and no native library supported.
+[2019.02.11-23.04.50:986][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR_SC and no native library supported.
+[2019.02.11-23.04.50:986][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR and no native library supported.
+[2019.02.11-23.04.50:986][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR_SC and no native library supported.
+[2019.02.11-23.04.50:987][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR and no native library supported.
+[2019.02.11-23.04.50:987][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR_SC and no native library supported.
+[2019.02.11-23.04.50:987][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR and no native library supported.
+[2019.02.11-23.04.50:987][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR_SC and no native library supported.
+[2019.02.11-23.04.50:987][  0]LogRHI: Display: Failed to open default shader pipeline cache for TrenchTowers using shader platform 0.
+[2019.02.11-23.04.50:987][  0]LogRHI: Display: Failed to open default shader pipeline cache for TrenchTowers using shader platform 0.
+[2019.02.11-23.04.51:010][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.11-23.04.51:035][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.11-23.04.51:036][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.11-23.04.52:447][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: TrenchTowers and no native library supported.
+[2019.02.11-23.04.52:447][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: TrenchTowers_SC and no native library supported.
+[2019.02.11-23.04.52:448][  0]LogRHI: Display: Failed to open default shader pipeline cache for TrenchTowers using shader platform 0.
+[2019.02.11-23.04.52:448][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: TrenchTowers and no native library supported.
+[2019.02.11-23.04.52:448][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: TrenchTowers_SC and no native library supported.
+[2019.02.11-23.04.52:448][  0]LogRHI: Display: Failed to open default shader pipeline cache for TrenchTowers using shader platform 0.
+[2019.02.11-23.04.52:448][  0]LogInit: Using OS detected language (en-US).
+[2019.02.11-23.04.52:448][  0]LogInit: Using OS detected locale (en-CA).
+[2019.02.11-23.04.52:448][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2019.02.11-23.04.52:449][  0]LogTextLocalizationManager: No localization for 'en-CA' exists, so 'en' will be used for the locale.
+[2019.02.11-23.04.52:482][  0]LogStreaming: Display: Took  0.034s to InitGameTextLocalization.
+[2019.02.11-23.04.52:505][  0]LogAssetRegistry: FAssetRegistry took 0.0224 seconds to start up
+[2019.02.11-23.04.52:611][  0]LogStreaming: Display: Flushing async loaders.
+[2019.02.11-23.04.52:624][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.011812 seconds
+[2019.02.11-23.04.52:626][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2019.02.11-23.04.52:644][  0]LogNetVersion: TrenchTowers 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1537713906)
+[2019.02.11-23.04.52:917][  0]LogMoviePlayer: Initializing movie player
+[2019.02.11-23.04.53:119][  0]LogSlate: Slate font cache was flushed
+[2019.02.11-23.04.53:120][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.11-23.04.53:132][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.11-23.04.53:278][  0]LogOnline: Display: STEAM: Loading Steam SDK 1.39
+[2019.02.11-23.04.53:280][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.11-23.04.53:281][  0]LogOcInput: OculusInput pre-init called
+[2019.02.11-23.04.53:290][  0]LogUObjectArray: 34092 objects as part of root set at end of initial load.
+[2019.02.11-23.04.53:291][  0]LogUObjectAllocator: 5127568 out of 0 bytes used by permanent object pool.
+[2019.02.11-23.04.53:291][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.11-23.04.53:302][  0]LogEngine: Initializing Engine...
+[2019.02.11-23.04.53:303][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.11-23.04.53:317][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.11-23.04.53:317][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.11-23.04.53:405][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.11-23.04.53:459][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.11-23.04.53:593][  0]LogInit: FAudioDevice initialized.
+[2019.02.11-23.04.53:605][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.11-23.04.53:605][  0]LogInit: Texture streaming: Enabled
+[2019.02.11-23.04.53:623][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.11-23.04.53:624][  0]LogInit: Display: Game Engine Initialized.
+[2019.02.11-23.04.53:624][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.11-23.04.53:624][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.11-23.04.53:624][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.11-23.04.53:638][  0]LogInit: Display: Starting Game.
+[2019.02.11-23.04.53:638][  0]LogNet: Browse: /Game/2DSideScrollerBP/Maps/MainMenu?Name=Player
+[2019.02.11-23.04.53:638][  0]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/MainMenu?Name=Player
+[2019.02.11-23.04.53:694][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.02.11-23.04.53:695][  0]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.02.11-23.04.53:698][  0]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2019.02.11-18.04.53
+[2019.02.11-23.04.53:698][  0]LogWorld: Bringing up level for play took: 0.000750
+[2019.02.11-23.04.53:699][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.11-23.04.53:701][  0]LogBlueprintUserMessages: [2DSideScrollerGameMode_C_0] 1
+[2019.02.11-23.04.53:701][  0]LogBlueprintUserMessages: [2DSideScrollerGameMode_C_0] Helloindex
+[2019.02.11-23.04.53:701][  0]LogUMG: Display: Widget Class GameUI_C - Loaded Fast Template.
+[2019.02.11-23.04.53:702][  0]LogUMG: Display: Widget Class MainMenu_C - Loaded Fast Template.
+[2019.02.11-23.04.53:704][  0]LogLoad: Took 0.066431 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/MainMenu)
+[2019.02.11-23.04.53:705][  0]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2019.02.11-23.04.53:743][  0]LogRenderer: Reallocating scene render targets to support 1920x1060 Format 10 NumSamples 1 (Frame:1).
+[2019.02.11-23.04.53:744][  0]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont' (155K)
+[2019.02.11-23.04.53:750][  0]LogLoad: (Engine Initialization) Total time: 4.88 seconds
+[2019.02.11-23.04.53:931][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.11-23.08.27:580][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.11-23.08.27:709][249]LogScript: Warning: Accessed None trying to read property SaveGameRef
+	MainMenu_C /Engine/Transient.GameEngine_0:TrenchGameInstance_C_0.MainMenu_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/GameUI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:0B70
+[2019.02.11-23.08.27:709][249]LogScript: Warning: Script call stack:
+	Function /Game/2DSideScrollerBP/Blueprints/GameUI/MainMenu.MainMenu_C:BndEvt__PlayGameButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature
+	Function /Game/2DSideScrollerBP/Blueprints/GameUI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+
+[2019.02.11-23.08.27:710][249]LogScript: Warning: Attempted to assign to None
+	MainMenu_C /Engine/Transient.GameEngine_0:TrenchGameInstance_C_0.MainMenu_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/GameUI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:0B85
+[2019.02.11-23.08.27:710][249]LogScript: Warning: Script call stack:
+	Function /Game/2DSideScrollerBP/Blueprints/GameUI/MainMenu.MainMenu_C:BndEvt__PlayGameButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature
+	Function /Game/2DSideScrollerBP/Blueprints/GameUI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+
+[2019.02.11-23.08.27:710][249]LogBlueprintUserMessages: [MainMenu_C_0] true
+[2019.02.11-23.08.27:986][249]LogBlueprintUserMessages: [MainMenu_C_0] notvalid
+[2019.02.11-23.08.31:530][468]LogInit: WinSock: I am DESKTOP-RI1ETNT (192.168.0.18:0)
+[2019.02.11-23.08.36:508][778]LogBlueprintUserMessages: [MainMenu_C_0] 0
+[2019.02.11-23.08.36:508][778]LogBlueprintUserMessages: [MainMenu_C_0] 6
+[2019.02.11-23.08.36:509][778]LogBlueprintUserMessages: [MainMenu_C_0] DESKTOP-B1IRNT8-ABC83BC844EE3D805DA9D7A18B6C311F
+[2019.02.11-23.08.36:509][778]LogUMG: Display: Widget Class LoadingScreen_C - Loaded Fast Template.
+[2019.02.11-23.08.36:522][778]LogNet: Browse: 192.168.0.27:0//Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2019.02.11-23.08.36:522][778]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.02.11-23.08.36:522][778]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.02.11-23.08.36:522][778]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.02.11-23.08.36:523][778]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.02.11-23.08.36:524][778]PacketHandlerLog: Loaded PacketHandler component: OnlineSubsystemSteam.SteamAuthComponentModuleInterface ()
+[2019.02.11-23.08.36:524][778]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.02.11-23.08.36:524][778]LogOnline: Warning: STEAM: AUTH HANDLER: Deactivating due to missing requirements
+[2019.02.11-23.08.36:524][778]LogNet: Game client on port 0, rate 10000
+[2019.02.11-23.09.36:549][499]LogNet: Warning: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 60.03, Real: 60.01, Good: 60.01, DriverTime: 60.03, Threshold: 60.00, [UNetConnection] RemoteAddr: 192.168.0.27:0, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.11-23.09.36:549][499]LogNet: Warning: Network Failure: PendingNetDriver[ConnectionTimeout]: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 60.03, Real: 60.01, Good: 60.01, DriverTime: 60.03, Threshold: 60.00, [UNetConnection] RemoteAddr: 192.168.0.27:0, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.11-23.09.36:549][499]LogNet: NetworkFailure: ConnectionTimeout, Error: 'UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 60.03, Real: 60.01, Good: 60.01, DriverTime: 60.03, Threshold: 60.00, [UNetConnection] RemoteAddr: 192.168.0.27:0, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID'
+[2019.02.11-23.09.36:549][499]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.0.27:0, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID, Channels: 2, Time: 2019.02.11-23.09.36
+[2019.02.11-23.09.36:549][499]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.27:0, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.11-23.09.36:549][499]LogNet: DestroyNamedNetDriver IpNetDriver_0 [PendingNetDriver]
+[2019.02.11-23.09.36:549][499]LogExit: PendingNetDriver IpNetDriver_0 shut down
+[2019.02.11-23.09.36:565][500]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap?closed
+[2019.02.11-23.09.36:565][500]LogNet: Connection failed; returning to Entry
+[2019.02.11-23.09.36:565][500]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap?closed
+[2019.02.11-23.09.36:580][500]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.27:0, Name: None, Driver: PendingNetDriver None, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.02.11-23.09.36:581][500]LogNet: UNetConnection::PendingConnectionLost. [UNetConnection] RemoteAddr: 192.168.0.27:0, Name: None, Driver: PendingNetDriver None, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID bPendingDestroy=0 
+[2019.02.11-23.09.36:584][500]LogStreaming: Display: Flushing async loaders.
+[2019.02.11-23.09.36:698][500]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.02.11-23.09.36:698][500]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.02.11-23.09.36:705][500]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.02.11-18.09.36
+[2019.02.11-23.09.36:706][500]LogWorld: Bringing up level for play took: 0.006417
+[2019.02.11-23.09.36:708][500]LogBlueprintUserMessages: [2DSideScrollerGameMode_C_0] 1
+[2019.02.11-23.09.36:708][500]LogBlueprintUserMessages: [2DSideScrollerGameMode_C_0] Helloindex
+[2019.02.11-23.09.36:708][500]LogBlueprintUserMessages: [2DSideScrollerGameMode_C_0] MouseAndMove_C_0
+[2019.02.11-23.09.36:708][500]LogBlueprintUserMessages: [2DSideScrollerGameMode_C_0] time to
+[2019.02.11-23.09.36:708][500]LogBlueprintUserMessages: [MouseAndMove_C_0] MouseAndMove_C_0
+[2019.02.11-23.09.36:710][500]LogBlueprintUserMessages: [MouseAndMove_C_0] create
+[2019.02.11-23.09.36:710][500]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.02.11-23.09.36:710][500]LogBlueprintUserMessages: [MouseAndMove_C_0] PlayerState_0
+[2019.02.11-23.09.36:710][500]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] 
+[2019.02.11-23.09.36:710][500]LogBlueprintUserMessages: [2DSideScrollerCharacter_C_0] this one
+[2019.02.11-23.09.36:710][500]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_Player
+	2DSideScrollerCharacter_C /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/Characters/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:29E2
+[2019.02.11-23.09.36:710][500]LogScript: Warning: Script call stack:
+	Function /Game/2DSideScrollerBP/Blueprints/Gameplay/2DSideScrollerGameMode.2DSideScrollerGameMode_C:HandleStartingNewPlayer
+	Function /Game/2DSideScrollerBP/Blueprints/Gameplay/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode
+	Function /Game/2DSideScrollerBP/Blueprints/Gameplay/MouseAndMove.MouseAndMove_C:PlayerPossess
+	Function /Game/2DSideScrollerBP/Blueprints/Gameplay/MouseAndMove.MouseAndMove_C:ExecuteUbergraph_MouseAndMove
+	Function /Game/2DSideScrollerBP/Blueprints/Gameplay/MouseAndMove.MouseAndMove_C:SpawnPlayer
+	Function /Game/2DSideScrollerBP/Blueprints/Gameplay/MouseAndMove.MouseAndMove_C:ExecuteUbergraph_MouseAndMove
+	Function /Game/2DSideScrollerBP/Blueprints/Characters/2DSideScrollerCharacter.2DSideScrollerCharacter_C:SetupPlayer
+	Function /Game/2DSideScrollerBP/Blueprints/Characters/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+
+[2019.02.11-23.09.36:711][500]LogUMG: Display: Widget Class GameUI_C - Loaded Fast Template.
+[2019.02.11-23.09.36:711][500]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.11-23.09.36:712][500]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Targets' of length 0 in '/Game/2DSideScrollerBP/Blueprints/Minions/Tower.Tower_C'!
+[2019.02.11-23.09.36:713][500]LogLoad: Took 0.148523 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap)
+[2019.02.11-23.09.37:253][533]LogBlueprintUserMessages: [Cube_Blueprint] land
+[2019.02.11-23.09.38:560][614]LogOutputDevice: Warning: 
+
+Script Stack:
+TroopSpawner_C.ExecuteUbergraph_TroopSpawner
+
+[2019.02.11-23.09.38:649][614]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.089 s
+[2019.02.11-23.09.38:649][614]LogOutputDevice: Error: begin: stack for UAT
+[2019.02.11-23.09.38:649][614]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.11-23.09.38:649][614]LogOutputDevice: Error: 
+[2019.02.11-23.09.38:649][614]LogOutputDevice: Error: Ensure condition failed: Cast<APawn>(NewUpdatedComponent->GetOwner()) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Components\PawnMovementComponent.cpp] [Line: 16]
+[2019.02.11-23.09.38:649][614]LogOutputDevice: Error: FloatingPawnMovement must update a component owned by a Pawn
+[2019.02.11-23.09.38:649][614]LogOutputDevice: Error: Stack: 
+[2019.02.11-23.09.38:649][614]LogOutputDevice: Error: [Callstack] 0x00007ff659256ab6 TrenchTowers.exe!FWindowsPlatformStackWalk::StackWalkAndDump() []
+[2019.02.11-23.09.38:649][614]LogOutputDevice: Error: [Callstack] 0x00007ff658fb2ad2 TrenchTowers.exe!FDebug::EnsureFailed() []
+[2019.02.11-23.09.38:649][614]LogOutputDevice: Error: [Callstack] 0x00007ff658fca926 TrenchTowers.exe!FDebug::OptionallyLogFormattedEnsureMessageReturningFalseImpl() []
+[2019.02.11-23.09.38:649][614]LogOutputDevice: Error: [Callstack] 0x00007ff65b0aea9f TrenchTowers.exe!UPawnMovementComponent::SetUpdatedComponent() []
+[2019.02.11-23.09.38:649][614]LogOutputDevice: Error: [Callstack] 0x00007ff65b0a0d0c TrenchTowers.exe!UMovementComponent::OnRegister() []
+[2019.02.11-23.09.38:649][614]LogOutputDevice: Error: [Callstack] 0x00007ff65afe73f3 TrenchTowers.exe!UActorComponent::ExecuteRegisterEvents() []
+[2019.02.11-23.09.38:649][614]LogOutputDevice: Error: [Callstack] 0x00007ff65b003f7f TrenchTowers.exe!UActorComponent::RegisterComponentWithWorld() []
+[2019.02.11-23.09.38:649][614]LogOutputDevice: Error: [Callstack] 0x00007ff65b002db5 TrenchTowers.exe!UActorComponent::RegisterComponent() []
+[2019.02.11-23.09.38:649][614]LogOutputDevice: Error: [Callstack] 0x00007ff65b8d2590 TrenchTowers.exe!USimpleConstructionScript::RegisterInstancedComponent() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65adbe0a6 TrenchTowers.exe!AActor::ExecuteConstruction() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65adc1247 TrenchTowers.exe!AActor::FinishSpawning() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65add9bc3 TrenchTowers.exe!AActor::PostSpawnInitialize() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65b44d8ca TrenchTowers.exe!UWorld::SpawnActor() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65b44de16 TrenchTowers.exe!UWorld::SpawnActor() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65b6e8918 TrenchTowers.exe!APawn::SpawnDefaultController() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65b6da274 TrenchTowers.exe!APawn::PostInitializeComponents() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65afadd53 TrenchTowers.exe!ACharacter::PostInitializeComponents() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65add6a8f TrenchTowers.exe!AActor::PostActorConstruction() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65adc1399 TrenchTowers.exe!AActor::FinishSpawning() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65b28c951 TrenchTowers.exe!UGameplayStatics::FinishSpawningActor() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65bd37492 TrenchTowers.exe!UGameplayStatics::execFinishSpawningActor() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65937a00b TrenchTowers.exe!UFunction::Invoke() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65955107a TrenchTowers.exe!UObject::CallFunction() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65956d12f TrenchTowers.exe!UObject::ProcessContextOpcode() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff659581481 TrenchTowers.exe!UObject::execLetObj() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65956f9e7 TrenchTowers.exe!UObject::ProcessInternal() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65937a00b TrenchTowers.exe!UFunction::Invoke() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65956ef8f TrenchTowers.exe!UObject::ProcessEvent() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65adda18b TrenchTowers.exe!AActor::ProcessEvent() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65b40b1da TrenchTowers.exe!FLatentActionManager::TickLatentActionForObject() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65b3f6d37 TrenchTowers.exe!FLatentActionManager::ProcessLatentActions() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65ade9fa8 TrenchTowers.exe!AActor::Tick() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65adea6fa TrenchTowers.exe!AActor::TickActor() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65adbed6d TrenchTowers.exe!FActorTickFunction::ExecuteTick() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65baf526e TrenchTowers.exe!FTickFunctionTask::DoTask() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65bb0cc76 TrenchTowers.exe!TGraphTask<FTickFunctionTask>::ExecuteTask() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff658e51de6 TrenchTowers.exe!FNamedTaskThread::ProcessTasksNamedThread() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff658e52306 TrenchTowers.exe!FNamedTaskThread::ProcessTasksUntilQuit() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65bb57f61 TrenchTowers.exe!FTickTaskSequencer::ReleaseTickGroup() []
+[2019.02.11-23.09.38:650][614]LogOutputDevice: Error: [Callstack] 0x00007ff65bb66648 TrenchTowers.exe!FTickTaskManager::RunTickGroup() []
+[2019.02.11-23.09.38:651][614]LogOutputDevice: Error: [Callstack] 0x00007ff65b447a5f TrenchTowers.exe!UWorld::RunTickGroup() []
+[2019.02.11-23.09.38:651][614]LogOutputDevice: Error: [Callstack] 0x00007ff65b450822 TrenchTowers.exe!UWorld::Tick() []
+[2019.02.11-23.09.38:651][614]LogOutputDevice: Error: [Callstack] 0x00007ff65b2b3fa9 TrenchTowers.exe!UGameEngine::Tick() []
+[2019.02.11-23.09.38:651][614]LogOutputDevice: Error: [Callstack] 0x00007ff6587c8648 TrenchTowers.exe!FEngineLoop::Tick() []
+[2019.02.11-23.09.38:651][614]LogOutputDevice: Error: [Callstack] 0x00007ff6587d823c TrenchTowers.exe!GuardedMain() []
+[2019.02.11-23.09.38:651][614]LogOutputDevice: Error: [Callstack] 0x00007ff6587d829a TrenchTowers.exe!GuardedMainWrapper() []
+[2019.02.11-23.09.38:651][614]LogOutputDevice: Error: [Callstack] 0x00007ff6587e5dd6 TrenchTowers.exe!WinMain() []
+[2019.02.11-23.09.38:651][614]LogOutputDevice: Error: [Callstack] 0x00007ff65cafd87b TrenchTowers.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+[2019.02.11-23.09.38:652][614]LogOutputDevice: Error: [Callstack] 0x00007ffebdc981f4 KERNEL32.DLL!UnknownFunction []
+[2019.02.11-23.09.38:652][614]LogOutputDevice: Error: [Callstack] 0x00007ffebe99a251 ntdll.dll!UnknownFunction []
+[2019.02.11-23.09.38:652][614]LogOutputDevice: Error: 
+[2019.02.11-23.09.38:652][614]LogOutputDevice: Error: end: stack for UAT
+[2019.02.11-23.09.38:655][614]LogStats:                SubmitErrorReport -  0.000 s

@@ -1338,291 +1338,291 @@
 "../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 1337
 "../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 1338
 "../../../Engine/Content/Tutorial/BlueprintTutorials/ClassBlueprintsEditorOverview.uasset" 1339
-"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 1340
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintFunctionLibrary_64x.uasset" 1341
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 1342
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Class.uasset" 1343
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1344
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 1345
-"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 1346
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 1347
-"../../../Engine/Content/Tutorial/Foliage/FoliageWalkThrough.uasset" 1348
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1349
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1350
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1351
-"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 1352
-"../../../Engine/Content/Tutorial/Installation/InstallingXCodeTutorial.uasset" 1353
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial.uasset" 1354
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part2.uasset" 1355
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part3.uasset" 1356
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1357
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset" 1358
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge1.uasset" 1359
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge2.uasset" 1360
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 1361
-"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 1362
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 1363
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 1364
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 1365
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape_Material.uasset" 1366
-"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 1367
-"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 1368
-"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 1369
-"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset" 1370
-"../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset" 1371
-"../../../Engine/Content/Tutorial/Mobile/SettingUpLuminTutorial.uasset" 1372
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 1373
-"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 1374
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 1375
-"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1376
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/TutorialFlipBook.uasset" 1377
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/TutorialSprite.uasset" 1378
-"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 1379
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1380
-"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 1381
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 1382
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 1383
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 1384
-"../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset" 1385
-"../../../Engine/Content/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.uasset" 1386
-"../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 1387
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1388
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 1389
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 1390
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 1391
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 1392
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 1393
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 1394
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 1395
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8_SubUV.uasset" 1396
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset" 1397
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 1398
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 1399
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 1400
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 1401
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 1402
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset" 1403
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 1404
-"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 1405
-"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset" 1406
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset" 1407
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uasset" 1408
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uasset" 1409
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uasset" 1410
-"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uasset" 1411
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 1412
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 1413
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset" 1414
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uasset" 1415
-"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 1416
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset" 1417
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset" 1418
-"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 1419
-"../../../Engine/Content/VREditor/ViewportInteractionAssetContainerData.uasset" 1420
-"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 1421
-"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 1422
-"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 1423
-"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 1424
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 1425
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 1426
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 1427
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 1428
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 1429
-"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 1430
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 1431
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 1432
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 1433
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 1434
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 1435
-"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 1436
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 1437
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 1438
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 1439
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 1440
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 1441
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 1442
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 1443
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 1444
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 1445
-"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 1446
-"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 1447
-"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 1448
-"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 1449
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 1450
-"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 1451
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 1452
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 1453
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 1454
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 1455
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 1456
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 1457
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 1458
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 1459
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 1460
-"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 1461
-"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 1462
-"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 1463
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 1464
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 1465
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 1466
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 1467
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 1468
-"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 1469
-"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 1470
-"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 1471
-"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 1472
-"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 1473
-"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 1474
-"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 1475
-"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 1476
-"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 1477
-"../../../Engine/Content/VREditor/VREditorAssetContainerData.uasset" 1478
-"../../../Engine/Content/VREditor/Devices/M_EngineLogo.uasset" 1479
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial_Inst.uasset" 1480
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerDiffuse.uasset" 1481
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerNormal.uasset" 1482
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMat.uasset" 1483
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMesh.uasset" 1484
-"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerDiffuse.uasset" 1485
-"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMaterial.uasset" 1486
-"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMesh.uasset" 1487
-"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim.uasset" 1488
-"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim_Inst.uasset" 1489
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_Trimlines.uasset" 1490
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial_Inst.uasset" 1491
-"../../../Engine/Content/VREditor/Sounds/VR_click1.uasset" 1492
-"../../../Engine/Content/VREditor/Sounds/VR_click1_Cue.uasset" 1493
-"../../../Engine/Content/VREditor/Sounds/VR_click2.uasset" 1494
-"../../../Engine/Content/VREditor/Sounds/VR_click2_Cue.uasset" 1495
-"../../../Engine/Content/VREditor/Sounds/VR_click3.uasset" 1496
-"../../../Engine/Content/VREditor/Sounds/VR_click3_Cue.uasset" 1497
-"../../../Engine/Content/VREditor/Sounds/VR_close.uasset" 1498
-"../../../Engine/Content/VREditor/Sounds/VR_close_Cue.uasset" 1499
-"../../../Engine/Content/VREditor/Sounds/VR_confirm.uasset" 1500
-"../../../Engine/Content/VREditor/Sounds/VR_confirm_Cue.uasset" 1501
-"../../../Engine/Content/VREditor/Sounds/VR_grab.uasset" 1502
-"../../../Engine/Content/VREditor/Sounds/VR_grab_Cue.uasset" 1503
-"../../../Engine/Content/VREditor/Sounds/VR_negative.uasset" 1504
-"../../../Engine/Content/VREditor/Sounds/VR_negative_Cue.uasset" 1505
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01.uasset" 1506
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01_Cue.uasset" 1507
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02.uasset" 1508
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02_Cue.uasset" 1509
-"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop.uasset" 1510
-"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop_Cue.uasset" 1511
-"../../../Engine/Content/VREditor/Sounds/VR_open.uasset" 1512
-"../../../Engine/Content/VREditor/Sounds/VR_open_Cue.uasset" 1513
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01.uasset" 1514
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01_Cue.uasset" 1515
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02.uasset" 1516
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02_Cue.uasset" 1517
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03.uasset" 1518
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03_Cue.uasset" 1519
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04.uasset" 1520
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04_Cue.uasset" 1521
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01.uasset" 1522
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01_Cue.uasset" 1523
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02.uasset" 1524
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02_Cue.uasset" 1525
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03.uasset" 1526
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03_Cue.uasset" 1527
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04.uasset" 1528
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04_Cue.uasset" 1529
-"../../../Engine/Content/VREditor/Sounds/VR_teleport_Cue.uasset" 1530
-"../../../Engine/Content/VREditor/Sounds/VR_ungrab.uasset" 1531
-"../../../Engine/Content/VREditor/Sounds/VR_ungrab_Cue.uasset" 1532
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01.uasset" 1533
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01_Cue.uasset" 1534
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02.uasset" 1535
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02_Cue.uasset" 1536
-"../../../Engine/Content/VREditor/Sounds/UI/Camera_Shutter.uasset" 1537
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 1538
-"../../../Engine/Content/VREditor/Sounds/UI/Enter_Play.uasset" 1539
-"../../../Engine/Content/VREditor/Sounds/UI/Enter_Simulate.uasset" 1540
-"../../../Engine/Content/VREditor/Sounds/UI/Flashlight_Switch.uasset" 1541
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-001.uasset" 1542
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-002.uasset" 1543
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close.uasset" 1544
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-002.uasset" 1545
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open.uasset" 1546
-"../../../Engine/Content/VREditor/Sounds/UI/Foliage_Placed.uasset" 1547
-"../../../Engine/Content/VREditor/Sounds/UI/Invalid_Action.uasset" 1548
-"../../../Engine/Content/VREditor/Sounds/UI/Laser_Pull.uasset" 1549
-"../../../Engine/Content/VREditor/Sounds/UI/Laser_Push.uasset" 1550
-"../../../Engine/Content/VREditor/Sounds/UI/Leave_Simulate.uasset" 1551
-"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Committed.uasset" 1552
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 1553
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 1554
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandle.uasset" 1555
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Main.uasset" 1556
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 1557
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 1558
-"../../../Engine/Content/VREditor/TransformGizmo/StretchingHandle.uasset" 1559
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateHandleLong.uasset" 1560
-"../../../Engine/Content/VREditor/TransformGizmo/TranslationHandle.uasset" 1561
-"../../../Engine/Content/VREditor/UI/KeyMaterial.uasset" 1562
-"../../../Engine/Content/VREditor/UI/FrameMaterial.uasset" 1563
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 1564
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle1.uasset" 1565
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle2.uasset" 1566
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle3.uasset" 1567
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle4.uasset" 1568
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle5.uasset" 1569
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle6.uasset" 1570
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle7.uasset" 1571
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle8.uasset" 1572
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScroller/Sprites/IdleAnimation.uasset" 1573
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 1574
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScroller/Sprites/Ledge.uasset" 1575
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Textures/2DBackgroundTile.uasset" 1576
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset" 1577
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 1578
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 1579
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_1.uasset" 1580
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_10.uasset" 1581
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_11.uasset" 1582
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_12.uasset" 1583
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_13.uasset" 1584
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_14.uasset" 1585
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_15.uasset" 1586
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_16.uasset" 1587
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_2.uasset" 1588
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_3.uasset" 1589
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_4.uasset" 1590
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_5.uasset" 1591
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_6.uasset" 1592
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_7.uasset" 1593
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_8.uasset" 1594
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_9.uasset" 1595
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 1596
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" 1597
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/MouseAndMove.uasset" 1598
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/2DSideScrollerGameMode.uasset" 1599
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 1600
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1601
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1602
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1603
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1604
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/Stardust.uasset" 1605
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/Stardust_Sprite.uasset" 1606
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Projectiles/PBullet.uasset" 1607
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Projectiles/SBullet.uasset" 1608
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/WeaponEnum.uasset" 1609
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/GameUI/GameUI.uasset" 1610
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyidle.uasset" 1611
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyidle_Sprite.uasset" 1612
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/IdleDummy.uasset" 1613
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm1.uasset" 1614
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm1_Sprite.uasset" 1615
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm2.uasset" 1616
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm2_Sprite.uasset" 1617
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun1.uasset" 1618
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun1_Sprite.uasset" 1619
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun2.uasset" 1620
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun2_Sprite.uasset" 1621
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun.uasset" 1622
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4DummyrunRev.uasset" 1623
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Characters/2DSideScrollerCharacter.uasset" 1624
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintFunctionLibrary_64x.uasset" 1340
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 1341
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Class.uasset" 1342
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1343
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 1344
+"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 1345
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 1346
+"../../../Engine/Content/Tutorial/Foliage/FoliageWalkThrough.uasset" 1347
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1348
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1349
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1350
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 1351
+"../../../Engine/Content/Tutorial/Installation/InstallingXCodeTutorial.uasset" 1352
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial.uasset" 1353
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part2.uasset" 1354
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part3.uasset" 1355
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1356
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset" 1357
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge1.uasset" 1358
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge2.uasset" 1359
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 1360
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 1361
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 1362
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 1363
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 1364
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape_Material.uasset" 1365
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 1366
+"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 1367
+"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 1368
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset" 1369
+"../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset" 1370
+"../../../Engine/Content/Tutorial/Mobile/SettingUpLuminTutorial.uasset" 1371
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 1372
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 1373
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 1374
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1375
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/TutorialFlipBook.uasset" 1376
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/TutorialSprite.uasset" 1377
+"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 1378
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1379
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 1380
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 1381
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 1382
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 1383
+"../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset" 1384
+"../../../Engine/Content/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.uasset" 1385
+"../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 1386
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1387
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 1388
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 1389
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 1390
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 1391
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 1392
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 1393
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 1394
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8_SubUV.uasset" 1395
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset" 1396
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 1397
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 1398
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 1399
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 1400
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 1401
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset" 1402
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 1403
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 1404
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset" 1405
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset" 1406
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uasset" 1407
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uasset" 1408
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uasset" 1409
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uasset" 1410
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 1411
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 1412
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset" 1413
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uasset" 1414
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 1415
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset" 1416
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset" 1417
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 1418
+"../../../Engine/Content/VREditor/ViewportInteractionAssetContainerData.uasset" 1419
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 1420
+"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 1421
+"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 1422
+"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 1423
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 1424
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 1425
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 1426
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 1427
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 1428
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 1429
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 1430
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 1431
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 1432
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 1433
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 1434
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 1435
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 1436
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 1437
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 1438
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 1439
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 1440
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 1441
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 1442
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 1443
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 1444
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 1445
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 1446
+"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 1447
+"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 1448
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 1449
+"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 1450
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 1451
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 1452
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 1453
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 1454
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 1455
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 1456
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 1457
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 1458
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 1459
+"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 1460
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 1461
+"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 1462
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 1463
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 1464
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 1465
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 1466
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 1467
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 1468
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 1469
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 1470
+"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 1471
+"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 1472
+"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 1473
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 1474
+"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 1475
+"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 1476
+"../../../Engine/Content/VREditor/VREditorAssetContainerData.uasset" 1477
+"../../../Engine/Content/VREditor/Devices/M_EngineLogo.uasset" 1478
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial_Inst.uasset" 1479
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerDiffuse.uasset" 1480
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerNormal.uasset" 1481
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMat.uasset" 1482
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMesh.uasset" 1483
+"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerDiffuse.uasset" 1484
+"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMaterial.uasset" 1485
+"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMesh.uasset" 1486
+"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim.uasset" 1487
+"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim_Inst.uasset" 1488
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_Trimlines.uasset" 1489
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial_Inst.uasset" 1490
+"../../../Engine/Content/VREditor/Sounds/VR_click1.uasset" 1491
+"../../../Engine/Content/VREditor/Sounds/VR_click1_Cue.uasset" 1492
+"../../../Engine/Content/VREditor/Sounds/VR_click2.uasset" 1493
+"../../../Engine/Content/VREditor/Sounds/VR_click2_Cue.uasset" 1494
+"../../../Engine/Content/VREditor/Sounds/VR_click3.uasset" 1495
+"../../../Engine/Content/VREditor/Sounds/VR_click3_Cue.uasset" 1496
+"../../../Engine/Content/VREditor/Sounds/VR_close.uasset" 1497
+"../../../Engine/Content/VREditor/Sounds/VR_close_Cue.uasset" 1498
+"../../../Engine/Content/VREditor/Sounds/VR_confirm.uasset" 1499
+"../../../Engine/Content/VREditor/Sounds/VR_confirm_Cue.uasset" 1500
+"../../../Engine/Content/VREditor/Sounds/VR_grab.uasset" 1501
+"../../../Engine/Content/VREditor/Sounds/VR_grab_Cue.uasset" 1502
+"../../../Engine/Content/VREditor/Sounds/VR_negative.uasset" 1503
+"../../../Engine/Content/VREditor/Sounds/VR_negative_Cue.uasset" 1504
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01.uasset" 1505
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01_Cue.uasset" 1506
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02.uasset" 1507
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02_Cue.uasset" 1508
+"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop.uasset" 1509
+"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop_Cue.uasset" 1510
+"../../../Engine/Content/VREditor/Sounds/VR_open.uasset" 1511
+"../../../Engine/Content/VREditor/Sounds/VR_open_Cue.uasset" 1512
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01.uasset" 1513
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01_Cue.uasset" 1514
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02.uasset" 1515
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02_Cue.uasset" 1516
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03.uasset" 1517
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03_Cue.uasset" 1518
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04.uasset" 1519
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04_Cue.uasset" 1520
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01.uasset" 1521
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01_Cue.uasset" 1522
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02.uasset" 1523
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02_Cue.uasset" 1524
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03.uasset" 1525
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03_Cue.uasset" 1526
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04.uasset" 1527
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04_Cue.uasset" 1528
+"../../../Engine/Content/VREditor/Sounds/VR_teleport_Cue.uasset" 1529
+"../../../Engine/Content/VREditor/Sounds/VR_ungrab.uasset" 1530
+"../../../Engine/Content/VREditor/Sounds/VR_ungrab_Cue.uasset" 1531
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01.uasset" 1532
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01_Cue.uasset" 1533
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02.uasset" 1534
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02_Cue.uasset" 1535
+"../../../Engine/Content/VREditor/Sounds/UI/Camera_Shutter.uasset" 1536
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 1537
+"../../../Engine/Content/VREditor/Sounds/UI/Enter_Play.uasset" 1538
+"../../../Engine/Content/VREditor/Sounds/UI/Enter_Simulate.uasset" 1539
+"../../../Engine/Content/VREditor/Sounds/UI/Flashlight_Switch.uasset" 1540
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-001.uasset" 1541
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-002.uasset" 1542
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close.uasset" 1543
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-002.uasset" 1544
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open.uasset" 1545
+"../../../Engine/Content/VREditor/Sounds/UI/Foliage_Placed.uasset" 1546
+"../../../Engine/Content/VREditor/Sounds/UI/Invalid_Action.uasset" 1547
+"../../../Engine/Content/VREditor/Sounds/UI/Laser_Pull.uasset" 1548
+"../../../Engine/Content/VREditor/Sounds/UI/Laser_Push.uasset" 1549
+"../../../Engine/Content/VREditor/Sounds/UI/Leave_Simulate.uasset" 1550
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Committed.uasset" 1551
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 1552
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 1553
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandle.uasset" 1554
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Main.uasset" 1555
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 1556
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 1557
+"../../../Engine/Content/VREditor/TransformGizmo/StretchingHandle.uasset" 1558
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateHandleLong.uasset" 1559
+"../../../Engine/Content/VREditor/TransformGizmo/TranslationHandle.uasset" 1560
+"../../../Engine/Content/VREditor/UI/KeyMaterial.uasset" 1561
+"../../../Engine/Content/VREditor/UI/FrameMaterial.uasset" 1562
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 1563
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle1.uasset" 1564
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle2.uasset" 1565
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle3.uasset" 1566
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle4.uasset" 1567
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle5.uasset" 1568
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle6.uasset" 1569
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle7.uasset" 1570
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle8.uasset" 1571
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScroller/Sprites/IdleAnimation.uasset" 1572
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 1573
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScroller/Sprites/Ledge.uasset" 1574
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Textures/2DBackgroundTile.uasset" 1575
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset" 1576
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 1577
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 1578
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_1.uasset" 1579
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_10.uasset" 1580
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_11.uasset" 1581
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_12.uasset" 1582
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_13.uasset" 1583
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_14.uasset" 1584
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_15.uasset" 1585
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_16.uasset" 1586
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_2.uasset" 1587
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_3.uasset" 1588
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_4.uasset" 1589
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_5.uasset" 1590
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_6.uasset" 1591
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_7.uasset" 1592
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_8.uasset" 1593
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Sprites/RunFrames/RunCycle_9.uasset" 1594
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 1595
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" 1596
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 1597
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1598
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1599
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1600
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1601
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/Stardust.uasset" 1602
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/Stardust_Sprite.uasset" 1603
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Projectiles/PBullet.uasset" 1604
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Projectiles/SBullet.uasset" 1605
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/WeaponEnum.uasset" 1606
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyidle.uasset" 1607
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyidle_Sprite.uasset" 1608
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/IdleDummy.uasset" 1609
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm1.uasset" 1610
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm1_Sprite.uasset" 1611
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm2.uasset" 1612
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyarm2_Sprite.uasset" 1613
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun1.uasset" 1614
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun1_Sprite.uasset" 1615
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun2.uasset" 1616
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun2_Sprite.uasset" 1617
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4Dummyrun.uasset" 1618
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/2DDummy/Ue4DummyrunRev.uasset" 1619
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Characters/2DSideScrollerCharacter.uasset" 1620
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/GameUI/GameUI.uasset" 1621
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/MouseAndMove.uasset" 1622
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/2DSideScrollerGameMode.uasset" 1623
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 1624
 "../../../Engine/Content/BasicShapes/M_Cube_M_Concrete_Panels_86E12A0444794D2FC4AFC8993B47978B.uasset" 1625
 "../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/Asset_1.uasset" 1626
 "../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/VisualAssets/Asset_1_Sprite.uasset" 1627
@@ -1961,19 +1961,19 @@
 "../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1960
 "../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1961
 "../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1962
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset" 1963
-"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 1964
-"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 1965
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1966
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Textures/2DBackground.uasset" 1967
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 1968
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" 1969
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/GameUI/LoadingScreen.uasset" 1970
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/PlayerInfo.uasset" 1971
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/PlayerSaveGame.uasset" 1972
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/ImageEnum.uasset" 1973
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/GameUI/MainMenu.uasset" 1974
-"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/TrenchGameInstance.uasset" 1975
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/GameUI/LoadingScreen.uasset" 1963
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/PlayerInfo.uasset" 1964
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/PlayerSaveGame.uasset" 1965
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/ImageEnum.uasset" 1966
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/GameUI/MainMenu.uasset" 1967
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Blueprints/Gameplay/TrenchGameInstance.uasset" 1968
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset" 1969
+"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 1970
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 1971
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1972
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2dSideScroller/Textures/2DBackground.uasset" 1973
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 1974
+"../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" 1975
 "../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Maps/MainMenu_BuiltData.uasset" 1976
 "../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/2DSideScrollerBP/Maps/MainMenu.umap" 1977
 "../../../../../../Program Files (x86)/TrenchTowers 4.20/Content/Character/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 1978
